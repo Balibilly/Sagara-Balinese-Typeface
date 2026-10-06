@@ -1,7 +1,5 @@
 # Sagara Balinese Typeface
 
-![Sagara Balinese Cover](specimens/cover.png)
-
 **Sagara Balinese** adalah *display typeface open-source* yang menggabungkan keanggunan tipografi modern dengan kekayaan warisan Aksara Bali. Didesain secara spesifik untuk kebutuhan *branding* industri *fashion* dan *beauty*, font ini menawarkan harmoni antara karakter Latin yang elegan dan proporsi Aksara Bali yang estetis.
 
 Diinisiasi oleh **[Balibilly Design](https://www.instagram.com/balibillydesign)**, proyek ini merupakan hasil kolaborasi dengan **Ni Putu Rahayu Satriani**, desainer tipe huruf dari Institut Seni Indonesia (ISI) Denpasar, sebagai upaya melestarikan aksara lokal melalui desain kontemporer yang relevan dengan industri kreatif saat ini.
@@ -14,11 +12,9 @@ Diinisiasi oleh **[Balibilly Design](https://www.instagram.com/balibillydesign)*
 ## 👁️ Type Specimen
 
 ### Latin Character Set
-![Latin Specimen](specimens/latin-sample.png)
 *Karakter Latin didesain dengan pendekatan elegan, mengutamakan lekukan yang mulus dan proporsi yang memberikan kesan mewah.*
 
 ### Balinese Script Set
-![Balinese Specimen](specimens/bali-sample.png)
 *Aksara Bali disesuaikan secara visual agar dapat bersanding harmonis dengan karakter Latin tanpa menghilangkan pakem tradisionalnya.*
 
 ## 📥 Instalasi
