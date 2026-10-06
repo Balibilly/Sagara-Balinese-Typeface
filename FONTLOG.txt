@@ -1,0 +1,29 @@
+FONTLOG for Sagara Balinese
+
+This file provides detailed information on the Sagara Balinese font software.
+This information should be distributed along with the Sagara Balinese fonts and any derivative works.
+
+Basic Font Information
+Sagara Balinese is a display typeface designed specifically for the fashion and beauty industry, featuring a harmonized combination of Latin and Balinese scripts. The design process focuses on high contrast and elegant curves to suit contemporary branding needs while preserving cultural heritage.
+
+Created by type designer Ni Putu Rahayu Satriani (ISI Denpasar internship program) under the art direction of Balibilly Design.
+
+ChangeLog
+1.000 (06 October 2026) Ni Putu Rahayu Satriani & Balibilly Design
+- Initial release.
+- Added basic Latin characters.
+- Added standard Balinese script characters.
+- Initial kerning and spacing adjustments.
+
+Acknowledgements
+If you make modifications be sure to add your name (N), email (E), web-address (if you have one) (W) and description (D).
+
+N: Ni Putu Rahayu Satriani
+E: [Email Rahayu]
+W: [Website/Portfolio Rahayu]
+D: Original Type Designer (ISI Denpasar Internship Program)
+
+N: Balibilly Design
+E: [Email Balibilly]
+W: [Website/Instagram Balibilly]
+D: Art Direction and Production
