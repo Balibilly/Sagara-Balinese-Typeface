@@ -1,0 +1,83 @@
+{
+.appVersion = "3343";
+.formatVersion = 3;
+date = "2026-09-14 06:34:53 +0000";
+familyName = "New Font";
+fontMaster = (
+{
+guides = (
+{
+angle = 270;
+pos = (50,607);
+},
+{
+angle = 90;
+pos = (237,588);
+},
+{
+angle = 90;
+pos = (591,554);
+},
+{
+angle = 90;
+pos = (487,656);
+}
+);
+id = m01;
+metricValues = (
+{
+over = 16;
+pos = 800;
+},
+{
+over = 16;
+pos = 700;
+},
+{
+over = 16;
+pos = 500;
+},
+{
+over = -16;
+},
+{
+over = -16;
+pos = -200;
+},
+{
+}
+);
+name = Regular;
+userData = {
+GSCornerRadius = 15;
+GSOffsetHorizontal = 16;
+GSOffsetMakeStroke = 1;
+GSOffsetVertical = 16;
+};
+visible = 1;
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+}
+);
+unitsPerEm = 1000;
+versionMajor = 1;
+versionMinor = 0;
+}

@@ -1,0 +1,9 @@
+{
+glyphname = "ca_tedung-bali";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+}

@@ -1,0 +1,10 @@
+{
+glyphname = "ca-bali";
+layers = (
+{
+layerId = m01;
+width = 896;
+}
+);
+unicode = 6936;
+}
