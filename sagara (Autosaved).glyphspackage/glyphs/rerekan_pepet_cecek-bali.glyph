@@ -1,0 +1,21 @@
+{
+glyphname = "rerekan_pepet_cecek-bali";
+layers = (
+{
+.lastUpdate = 812967746.722;
+layerId = m01;
+shapes = (
+{
+ref = "rerekan-bali";
+},
+{
+ref = "pepet-bali";
+},
+{
+ref = "cecek-bali";
+}
+);
+width = 300;
+}
+);
+}

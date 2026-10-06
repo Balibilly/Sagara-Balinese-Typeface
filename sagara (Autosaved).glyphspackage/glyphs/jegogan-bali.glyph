@@ -1,0 +1,10 @@
+{
+glyphname = "jegogan-bali";
+layers = (
+{
+layerId = m01;
+width = 300;
+}
+);
+unicode = 7023;
+}
