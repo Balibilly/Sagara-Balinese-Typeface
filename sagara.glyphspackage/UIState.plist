@@ -37,10 +37,22 @@ S  /zero.001   ᬘ ma
 S  /zero.001   ᬭ ma
 S  /zero.001   ᬓ ma
 S  /zero.001   ᬤ  ma
+S  /zero.001   ᬢ  ma
+S  /zero.001   ᬮ  ma
+S  /zero.001   ᬧ  ma
+S  /zero.001   ᬕ  ma
+S  /zero.001   ᬗ  ma
 
-ᬳᬦᬭᬓ m
+
+ᬳᬦᬭᬓᬤᬢᬮᬧᬕ ma
 ",
-"ᬭ",
-"ᬤ"
+"ᬘ",
+"ᬡ",
+"ᬫ",
+"ᬧ",
+"ᬔ",
+"ᬲ",
+"ᬕ",
+"ᬗ"
 );
 }

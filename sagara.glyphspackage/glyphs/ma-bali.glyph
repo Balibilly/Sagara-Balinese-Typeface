@@ -3,7 +3,7 @@ glyphname = "ma-bali";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 991;
 }
 );
 unicode = 6955;
