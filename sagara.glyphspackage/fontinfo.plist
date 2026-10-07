@@ -97,7 +97,7 @@ pos = -200;
 );
 name = Regular;
 userData = {
-GSCornerRadius = 15;
+GSCornerRadius = 30;
 GSOffsetHorizontal = 16;
 GSOffsetMakeStroke = 1;
 GSOffsetVertical = 16;
