@@ -29,10 +29,18 @@ OPQRSTUVWXYZ
 abcdefghijklmno
 pqrstuvwxyz
 
+\"trust the proscess\"
+
 S  /zero.001  ᬳ ma
 S  /zero.001   ᬦ ma
-S  /zero.001   ᬘ ma",
-"ᬦ",
-"ᬘ"
+S  /zero.001   ᬘ ma
+S  /zero.001   ᬭ ma
+S  /zero.001   ᬓ ma
+S  /zero.001   ᬤ  ma
+
+ᬳᬦᬭᬓ m
+",
+"ᬭ",
+"ᬤ"
 );
 }

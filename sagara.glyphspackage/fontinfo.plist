@@ -56,11 +56,11 @@ fontMaster = (
 guides = (
 {
 angle = 270;
-pos = (50,607);
+pos = (203,584);
 },
 {
 angle = 90;
-pos = (237,588);
+pos = (218,588);
 },
 {
 angle = 90;
