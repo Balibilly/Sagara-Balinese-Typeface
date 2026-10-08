@@ -29,30 +29,27 @@ OPQRSTUVWXYZ
 abcdefghijklm
 nopqrstuvwxyz
 
-sm  ᬳ  mu
-sm  ᬦ  mu
-sm  ᬭ  mu
-sm  ᬓ  mu
-sm  ᬤ  mu
-sm  ᬢ  mu
-sm  ᬮ  mu
-sm  ᬕ  mu
-sm  ᬧ  mu
-sm    mu
-sm    mu
-sm    mu
-sm    mu
+sm /zero.001  ᬳ  mu
+sm /zero.001  ᬦ  mu
+sm /zero.001  ᬭ  mu
+sm /zero.001  ᬓ  mu
+sm /zero.001  ᬤ  mu
+sm /zero.001  ᬢ  mu
+sm /zero.001  ᬮ  mu
+sm /zero.001  ᬕ  mu
+sm /zero.001  ᬧ  mu
+sm  /zero.001  ᬯ mu
+sm  /zero.001  ᬫ  mu
+sm  /zero.001  ᬗ  mu
+sm  /zero.001  ᬬ  mu
 sm    mu
 sm    mu
 
-ᬳᬦᬭᬓᬤᬢᬮᬧ
-ᬢᬳ",
-"ᬭᬓ",
-"ᬤ",
-"ᬢ",
-"ᬮ",
-"ᬕ",
-"ᬧ",
-A
+ᬳᬦᬭᬓᬤᬢᬮᬧᬯ
+ᬢᬳᬗ",
+"ᬯ",
+"ᬫ",
+"ᬗ",
+"ᬬ"
 );
 }

@@ -102,7 +102,6 @@ GSOffsetHorizontal = 16;
 GSOffsetMakeStroke = 1;
 GSOffsetVertical = 16;
 };
-visible = 1;
 }
 );
 metrics = (
