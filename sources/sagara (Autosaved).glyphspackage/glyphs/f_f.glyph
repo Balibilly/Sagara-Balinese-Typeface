@@ -1,0 +1,21 @@
+{
+glyphname = f_f;
+layers = (
+{
+.lastUpdate = 813119493.93;
+layerId = m01;
+shapes = (
+{
+ref = f;
+},
+{
+pos = (364,0);
+ref = f;
+}
+);
+width = 728;
+}
+);
+metricLeft = f;
+metricRight = f;
+}

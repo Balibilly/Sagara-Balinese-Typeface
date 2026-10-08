@@ -1,0 +1,22 @@
+{
+glyphname = ellipsis;
+layers = (
+{
+.lastUpdate = 813119493.93;
+layerId = m01;
+shapes = (
+{
+ref = period;
+},
+{
+ref = period;
+},
+{
+ref = period;
+}
+);
+width = 143;
+}
+);
+unicode = 8230;
+}

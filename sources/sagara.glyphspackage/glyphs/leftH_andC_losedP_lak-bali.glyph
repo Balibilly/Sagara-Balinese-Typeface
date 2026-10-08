@@ -1,0 +1,10 @@
+{
+glyphname = "leftHandClosedPlak-bali";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 7034;
+}

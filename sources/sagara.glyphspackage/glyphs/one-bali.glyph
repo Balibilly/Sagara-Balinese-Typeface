@@ -1,0 +1,10 @@
+{
+glyphname = "one-bali";
+layers = (
+{
+layerId = m01;
+width = 1402;
+}
+);
+unicode = 6993;
+}
