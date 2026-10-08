@@ -1,0 +1,10 @@
+{
+glyphname = "ma-bali";
+layers = (
+{
+layerId = m01;
+width = 991;
+}
+);
+unicode = 6955;
+}

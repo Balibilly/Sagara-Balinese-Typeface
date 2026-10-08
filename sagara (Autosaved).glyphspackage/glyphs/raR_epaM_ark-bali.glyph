@@ -1,0 +1,10 @@
+{
+glyphname = "raRepaMark-bali";
+layers = (
+{
+layerId = m01;
+width = 300;
+}
+);
+unicode = 6970;
+}
