@@ -1,9 +1,10 @@
 {
+color = 0;
 glyphname = A;
-lastChange = "2026-10-08 02:43:27 +0000";
+lastChange = "2026-10-08 06:28:50 +0000";
 layers = (
 {
-.lastUpdate = 813120207.128;
+.lastUpdate = 813133730.986;
 layerId = m01;
 shapes = (
 {
@@ -116,9 +117,8 @@ nodes = (
 );
 }
 );
-width = 423;
+width = 450;
 }
 );
-metricRight = "=|";
 unicode = 65;
 }

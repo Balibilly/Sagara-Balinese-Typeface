@@ -1,5 +1,7 @@
 {
+color = 0;
 glyphname = "pa-bali";
+lastChange = "2026-10-08 06:02:34 +0000";
 layers = (
 {
 layerId = m01;
