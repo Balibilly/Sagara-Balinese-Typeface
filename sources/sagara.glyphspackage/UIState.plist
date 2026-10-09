@@ -42,14 +42,16 @@ sm  /zero.001  ᬯ mu
 sm  /zero.001  ᬫ  mu
 sm  /zero.001  ᬗ  mu
 sm  /zero.001  ᬬ  mu
-sm    mu
-sm    mu
+sm  /zero.001   ᬡ  mu
+sm  /zero.001  ᬘ  mu
 
-ᬳᬦᬭᬓᬤᬢᬮᬧᬯ
-ᬢᬳᬗ",
+ᬳᬦᬭᬓᬤᬢᬮᬧᬯᬗᬡ",
 "ᬯ",
 "ᬫ",
 "ᬗ",
-"ᬬ"
+"ᬬ",
+"+−",
+"ᬡ",
+"ᬘ"
 );
 }
