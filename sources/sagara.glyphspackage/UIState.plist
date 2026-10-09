@@ -38,20 +38,20 @@ sm /zero.001  ᬢ  mu
 sm /zero.001  ᬮ  mu
 sm /zero.001  ᬕ  mu
 sm /zero.001  ᬧ  mu
-sm  /zero.001  ᬯ mu
+sm /zero.001  ᬯ  mu
 sm  /zero.001  ᬫ  mu
 sm  /zero.001  ᬗ  mu
 sm  /zero.001  ᬬ  mu
 sm  /zero.001   ᬡ  mu
 sm  /zero.001  ᬘ  mu
+sm  /zero.001  ᬙ  mu
+sm  /zero.001   ᬟ  mu
+sm  /zero.001  ᬘ  mu
+sm  /zero.001  ᬘ  mu
 
-ᬳᬦᬭᬓᬤᬢᬮᬧᬯᬗᬡ",
-"ᬯ",
-"ᬫ",
-"ᬗ",
-"ᬬ",
-"+−",
-"ᬡ",
-"ᬘ"
+ᬳᬦᬭᬓᬤᬢᬮᬧᬯᬗᬡᬙᬟ",
+"ᬥ",
+"ᬟ",
+"/contoh/ha-bali.001"
 );
 }
