@@ -3,7 +3,22 @@ glyphname = "dangSurang-bali";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(481,134,l),
+(271,149,o),
+(190,300,o),
+(190,501,c),
+(100,501,l),
+(100,288,o),
+(186,106,o),
+(481,102,c)
+);
+}
+);
+width = 581;
 }
 );
 unicode = 7013;
