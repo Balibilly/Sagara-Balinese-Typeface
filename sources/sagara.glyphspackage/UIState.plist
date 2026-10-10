@@ -51,14 +51,16 @@ sm  /zero.001  ᬠ  mu
 sm  /zero.001  ᭤  mu
 sm  /zero.001  ᭥  mu
 sm  /zero.001  ᭪  mu
-sm  /zero.001   ᭧ mu
-sm  /zero.001    mu
+sm  /zero.001  ᬏ mu
+sm  /zero.001  ᬨ  mu
 
 ᬳᬦᬭᬓᬤᬢᬮᬧᬯᬗᬡᬙᬟᬥᬠ
-᭤᭥",
+᭤᭥ᬏ",
 "ᬥ",
 "ᬟ",
 "᭪ ᭧ ᭦ ᭣ ᭢ ᭨ ᭩  ᭡ ᭴᭵᭶᭷᭸᭹᭺᭻",
-"/ha-bali.001"
+"/ha-bali.001",
+"ᬏ",
+"ᬨ"
 );
 }
