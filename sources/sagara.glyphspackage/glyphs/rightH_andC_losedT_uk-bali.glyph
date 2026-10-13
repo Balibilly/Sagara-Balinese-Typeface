@@ -3,7 +3,34 @@ glyphname = "rightHandClosedTuk-bali";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+pos = (21,-15);
+ref = "rightHandOpenDug-bali";
+},
+{
+closed = 1;
+nodes = (
+(121,469,ls),
+(120,471,o),
+(118,470,o),
+(117,468,cs),
+(82,418,ls),
+(82,416,o),
+(82,414,o),
+(83,414,cs),
+(363,192,ls),
+(365,190,o),
+(366,191,o),
+(367,193,cs),
+(402,243,ls),
+(402,245,o),
+(402,247,o),
+(401,247,cs)
+);
+}
+);
+width = 692;
 }
 );
 unicode = 7030;

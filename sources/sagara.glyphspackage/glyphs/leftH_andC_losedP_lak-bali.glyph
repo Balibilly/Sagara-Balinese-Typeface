@@ -3,7 +3,33 @@ glyphname = "leftHandClosedPlak-bali";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = "leftHandOpenPang-bali";
+},
+{
+closed = 1;
+nodes = (
+(151,478,ls),
+(149,479,o),
+(148,479,o),
+(147,477,cs),
+(131,456,ls),
+(130,454,o),
+(131,453,o),
+(132,452,cs),
+(563,111,ls),
+(565,109,o),
+(566,110,o),
+(567,112,cs),
+(583,133,ls),
+(584,135,o),
+(583,136,o),
+(582,137,cs)
+);
+}
+);
+width = 707;
 }
 );
 unicode = 7034;

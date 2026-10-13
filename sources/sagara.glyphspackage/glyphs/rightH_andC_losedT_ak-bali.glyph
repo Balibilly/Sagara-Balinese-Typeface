@@ -3,7 +3,34 @@ glyphname = "rightHandClosedTak-bali";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+pos = (78,0);
+ref = "rightHandOpenDag-bali";
+},
+{
+closed = 1;
+nodes = (
+(121,509,ls),
+(120,511,o),
+(118,510,o),
+(117,508,cs),
+(82,458,ls),
+(82,456,o),
+(82,454,o),
+(83,454,cs),
+(363,232,ls),
+(365,230,o),
+(366,231,o),
+(367,233,cs),
+(402,283,ls),
+(402,285,o),
+(402,287,o),
+(401,287,cs)
+);
+}
+);
+width = 730;
 }
 );
 unicode = 7031;

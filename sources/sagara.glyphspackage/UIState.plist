@@ -58,16 +58,29 @@ sm  /zero.001  ᬚ  mu
 sm  /zero.001  ᬜ  mu
 sm  /zero.001  ᭧  mu 
 sm  /zero.001  ᭦  mu
+
 sm  /zero.001  ᭣  mu
-sm  /zero.001    mu
-sm  /zero.001    mu
-sm  /zero.001    mu
+sm  /zero.001  ᭢  mu
+
+sm  /zero.001  ᭨  mu
+sm  /zero.001  ᭡  mu
+sm  /zero.001  ᭴  mu
+sm  /zero.001  ᭵  mu
+sm  /zero.001  ᭶  mu
+sm  /zero.001  ᭷  mu
+sm  /zero.001  ᭸  mu
+sm  /zero.001  ᭹  mu
+sm  /zero.001  ᭺   mu
+sm  /zero.001  ᭻  mu
+sm  /zero.001   ᭩   mu
+
 sm  /zero.001    mu
 sm  /zero.001    mu
 
 ᬳᬦᬭᬓᬤᬢᬮᬧᬯᬗᬡᬙᬟᬥᬠᬯᬬᬩᬫᬚᬜ
-᭤᭥᭧ᬏ᭪᭦",
-"᭣᭢᭨᭩᭡᭴᭵᭶᭷᭸᭹᭺᭻",
-"ᬬ"
+᭤᭥᭧ᬏ᭪᭦᭣᭢᭨᭡
+
+᭴᭵᭶᭷᭸᭹᭺᭻",
+"᭚᭛᭜᭝᭞᭟᭠"
 );
 }

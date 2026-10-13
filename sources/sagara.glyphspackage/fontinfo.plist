@@ -96,10 +96,10 @@ pos = -200;
 );
 name = Regular;
 userData = {
-GSCornerRadius = 30;
-GSOffsetHorizontal = 16;
+GSCornerRadius = 3;
+GSOffsetHorizontal = 45;
 GSOffsetMakeStroke = 1;
-GSOffsetVertical = 16;
+GSOffsetVertical = 45;
 };
 visible = 1;
 }

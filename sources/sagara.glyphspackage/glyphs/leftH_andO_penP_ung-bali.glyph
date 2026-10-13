@@ -3,7 +3,21 @@ glyphname = "leftHandOpenPung-bali";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(141,-7,l),
+(624,-7,l),
+(624,83,l),
+(223,83,l),
+(648,499,l),
+(586,563,l),
+(100,90,l)
+);
+}
+);
+width = 748;
 }
 );
 unicode = 7033;
