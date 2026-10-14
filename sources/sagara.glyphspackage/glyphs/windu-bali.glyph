@@ -3,7 +3,12 @@ glyphname = "windu-bali";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = "zero-bali";
+}
+);
+width = 605;
 }
 );
 unicode = 7004;
