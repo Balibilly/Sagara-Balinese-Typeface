@@ -3,7 +3,17 @@ glyphname = "saSapa-bali";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = "pa-bali";
+},
+{
+alignment = -1;
+pos = (10,0);
+ref = cecek_tengah;
+}
+);
+width = 810;
 }
 );
 unicode = 6961;

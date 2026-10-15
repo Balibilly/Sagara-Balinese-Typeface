@@ -3,7 +3,12 @@ glyphname = "six-bali";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = "ekara-bali";
+}
+);
+width = 790;
 }
 );
 unicode = 6998;

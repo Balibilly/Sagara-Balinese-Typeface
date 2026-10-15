@@ -3,7 +3,17 @@ glyphname = "saSaga-bali";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = "ga-bali";
+},
+{
+alignment = -1;
+pos = (105,-50);
+ref = cecek_tengah;
+}
+);
+width = 1074;
 }
 );
 unicode = 6960;

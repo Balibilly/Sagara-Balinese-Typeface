@@ -3,7 +3,12 @@ glyphname = "okara-bali";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = "three-bali";
+}
+);
+width = 1126;
 }
 );
 unicode = 6929;
