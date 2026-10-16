@@ -24,7 +24,7 @@ b  HUUU
 1234567890
 pulupulu
 69",
-"BCDEFGHIJKLMN
+"ABCDEFGHIJKLMN
 OPQRSTUVWXYZ
 abcdefghijklm
 nopqrstuvwxyz
@@ -104,6 +104,37 @@ sm  /zero.001  ᬨ  mu
 sm  /zero.001  ᬣ  mu
 sm  /zero.001  ᬱ  mu
 sm  /zero.001  ᬰ  mu
+
+sm  /zero.001   ᬒ  mu
+
+sm  /zero.001  ᬔ  mu
+sm  /zero.001  ᬞ  mu
+sm  /zero.001  ᬝ  mu
+sm  /zero.001  ᬖ  mu
+sm  /zero.001  ᬪ  mu
+sm  /zero.001  ᬛ  mu
+
+sm  /zero.001  /ha_tedung-bali   mu
+sm  /zero.001  /na_tedung-bali   mu
+sm  /zero.001  /naRambat_tedung-bali   mu
+sm  /zero.001  /ca_tedung-bali   mu
+sm  /zero.001  /caLaca_tedung-bali   mu
+sm  /zero.001  /ra_tedung-bali   mu
+sm  /zero.001  /ka_tedung-bali   mu
+sm  /zero.001  /da_tedung-bali   mu
+sm  /zero.001  /daMadu_tedung-bali   mu
+sm  /zero.001  /ta_tedung-bali   mu
+sm  /zero.001  /sa_tedung-bali   mu
+sm  /zero.001  /wa_tedung-bali   mu
+sm  /zero.001  /la_tedung-bali   mu
+sm  /zero.001  /ma_tedung-bali   mu
+sm  /zero.001  /ga_tedung-bali   mu
+sm  /zero.001  /ba_tedung-bali   mu
+sm  /zero.001  /pa_tedung-bali   mu
+sm  /zero.001    mu
+sm  /zero.001    mu
+sm  /zero.001    mu
+sm  /zero.001    mu
 sm  /zero.001    mu
 sm  /zero.001    mu
 
@@ -115,11 +146,14 @@ sm  /zero.001    mu
 
 ᭑᭒᭓᭔᭕᭗᭘᭙
 
-ᬐᬑᬨᬣᬱᬰ",
-"ᬰ",
-"ᬞ",
-"ᬒ",
-"ᬎ",
-"ᬇ"
+ᬐᬑᬒᬔᬨᬞᬝᬣᬖᬱᬰ
+
+ᬪᬛ/ha_tedung-bali/na_tedung-bali/naRambat_tedung-bali/ca_tedung-bali/caLaca_tedung-bali/ra_tedung-bali/ka_tedung-bali 
+
+/da_tedung-bali/daMadu_tedung-bali/ta_tedung-bali/sa_tedung-bali/wa_tedung-bali/la_tedung-bali/ma_tedung-bali/ga_tedung-bali/ba_tedung-bali/pa_tedung-bali",
+"/ma_tedung-bali",
+"/ga_tedung-bali",
+"/ba_tedung-bali",
+"/pa_tedung-bali"
 );
 }

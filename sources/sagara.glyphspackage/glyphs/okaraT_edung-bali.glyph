@@ -3,7 +3,16 @@ glyphname = "okaraTedung-bali";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = "three-bali";
+},
+{
+pos = (947,0);
+ref = "dong-bali";
+}
+);
+width = 1649;
 }
 );
 unicode = 6930;

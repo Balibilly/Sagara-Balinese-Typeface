@@ -3,7 +3,12 @@ glyphname = "jaJera-bali";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = "aikara-bali";
+}
+);
+width = 1292;
 }
 );
 unicode = 6939;
