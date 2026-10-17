@@ -131,10 +131,14 @@ sm  /zero.001  /ma_tedung-bali   mu
 sm  /zero.001  /ga_tedung-bali   mu
 sm  /zero.001  /ba_tedung-bali   mu
 sm  /zero.001  /pa_tedung-bali   mu
-sm  /zero.001    mu
-sm  /zero.001    mu
-sm  /zero.001    mu
-sm  /zero.001    mu
+
+sm  /zero.001  ᬶ  mu
+
+sm  /zero.001  ᬀ  mu
+
+sm  /zero.001  ᬷ  mu
+
+sm  /zero.001  ᬁ  mu
 sm  /zero.001    mu
 sm  /zero.001    mu
 
@@ -144,16 +148,39 @@ sm  /zero.001    mu
 ᭤᭥᭧ᬏ᭪᭦᭣᭢᭨᭡᭩᭴᭵᭶᭷᭸᭹᭺᭻
 ᭚᭛᭜᭝᭞᭠᭟ 
 
-᭑᭒᭓᭔᭕᭗᭘᭙
+᭑᭒᭓᭔᭕᭖᭗᭘᭙
 
 ᬐᬑᬒᬔᬨᬞᬝᬣᬖᬱᬰ
 
 ᬪᬛ/ha_tedung-bali/na_tedung-bali/naRambat_tedung-bali/ca_tedung-bali/caLaca_tedung-bali/ra_tedung-bali/ka_tedung-bali 
 
-/da_tedung-bali/daMadu_tedung-bali/ta_tedung-bali/sa_tedung-bali/wa_tedung-bali/la_tedung-bali/ma_tedung-bali/ga_tedung-bali/ba_tedung-bali/pa_tedung-bali",
-"/ma_tedung-bali",
-"/ga_tedung-bali",
-"/ba_tedung-bali",
-"/pa_tedung-bali"
+/da_tedung-bali/daMadu_tedung-bali/ta_tedung-bali/sa_tedung-bali/wa_tedung-bali/la_tedung-bali/ma_tedung-bali/ga_tedung-bali/ba_tedung-bali/pa_tedung-bali 
+
+ᬶᬀᬷ",
+"
+/ulu_uluRicem-bali 
+/ulu_uluCandra-bali 
+/ulu_cecek-bali 
+/ulu_surang-bali 
+
+/uluSari_uluRicem-bali 
+/uluSari_uluCandra-bali 
+/uluSari_cecek-bali 
+/uluSari_surang-bali 
+
+ᬁ
+ᭂ
+/pepet_cecek-bali 
+/pepet_surang-bali 
+ᬂ
+ᬃ
+᬴
+/rerekan_cecek-bali 
+/rerekan_surang-bali 
+/rerekan_ulu_cecek-bali 
+/rerekan_ulu_surang-bali 
+",
+"᭤᭥᭪᭧᭦᭣᭢᭨᭩᭡",
+"ᬳᬦᬘᬭᬓᬤᬢᬲᬯᬮᬫᬕᬩᬗᬧᬚᬬᬜ"
 );
 }

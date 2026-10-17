@@ -1,0 +1,20 @@
+{
+glyphname = lurus;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(799,250,l),
+(799,0,l),
+(831,0,l),
+(831,250,l)
+);
+}
+);
+width = 949;
+}
+);
+}

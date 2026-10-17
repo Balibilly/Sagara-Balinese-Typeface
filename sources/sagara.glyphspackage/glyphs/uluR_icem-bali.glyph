@@ -3,7 +3,15 @@ glyphname = "uluRicem-bali";
 layers = (
 {
 layerId = m01;
-width = 300;
+shapes = (
+{
+ref = "ulu-bali";
+},
+{
+ref = "dot-ulu-rincem";
+}
+);
+width = 681;
 }
 );
 unicode = 6912;
