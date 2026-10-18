@@ -1,10 +1,18 @@
 {
-color = 4;
 glyphname = "ulu_uluRicem-bali";
 layers = (
 {
 layerId = m01;
-width = 300;
+shapes = (
+{
+ref = "ulu-bali";
+},
+{
+pos = (520,0);
+ref = "uluRicem-bali";
+}
+);
+width = 1201;
 }
 );
 }

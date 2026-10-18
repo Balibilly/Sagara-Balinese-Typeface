@@ -3,7 +3,17 @@ glyphname = "baKembang_tedung-bali";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = "baKembang-bali";
+},
+{
+alignment = -1;
+pos = (807,0);
+ref = "tedung-bali";
+}
+);
+width = 1509;
 }
 );
 }

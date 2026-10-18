@@ -63,7 +63,7 @@ nodes = (
 },
 {
 pos = (1,591);
-ref = contoh;
+ref = "depan-1";
 }
 );
 width = 917;

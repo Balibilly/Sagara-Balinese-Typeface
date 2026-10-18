@@ -3,7 +3,19 @@ glyphname = "jaJera_tedung-bali";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+alignment = -1;
+pos = (30,0);
+ref = "jaJera-bali";
+},
+{
+alignment = -1;
+pos = (1044,0);
+ref = "tedung-bali";
+}
+);
+width = 1746;
 }
 );
 }

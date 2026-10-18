@@ -3,7 +3,17 @@ glyphname = "nga_tedung-bali";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = "nga-bali";
+},
+{
+alignment = -1;
+pos = (957,0);
+ref = "tedung-bali";
+}
+);
+width = 1659;
 }
 );
 }

@@ -1,10 +1,24 @@
 {
-color = 4;
 glyphname = "surang-bali";
 layers = (
 {
 layerId = m01;
-width = 300;
+shapes = (
+{
+closed = 1;
+nodes = (
+(481,649,l),
+(271,664,o),
+(190,815,o),
+(190,1016,c),
+(100,1016,l),
+(100,803,o),
+(186,621,o),
+(481,617,c)
+);
+}
+);
+width = 581;
 }
 );
 unicode = 6915;

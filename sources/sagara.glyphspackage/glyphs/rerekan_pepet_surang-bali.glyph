@@ -8,13 +8,15 @@ shapes = (
 ref = "rerekan-bali";
 },
 {
+pos = (490,0);
 ref = "pepet-bali";
 },
 {
+pos = (1250,0);
 ref = "surang-bali";
 }
 );
-width = 300;
+width = 1831;
 }
 );
 }

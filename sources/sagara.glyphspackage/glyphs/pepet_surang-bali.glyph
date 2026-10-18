@@ -1,10 +1,18 @@
 {
-color = 4;
 glyphname = "pepet_surang-bali";
 layers = (
 {
 layerId = m01;
-width = 300;
+shapes = (
+{
+ref = "pepet-bali";
+},
+{
+pos = (750,0);
+ref = "surang-bali";
+}
+);
+width = 1391;
 }
 );
 }

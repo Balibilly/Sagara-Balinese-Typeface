@@ -1,10 +1,18 @@
 {
-color = 4;
 glyphname = "pepet_cecek-bali";
 layers = (
 {
 layerId = m01;
-width = 300;
+shapes = (
+{
+ref = "pepet-bali";
+},
+{
+pos = (750,-20);
+ref = "cecek-bali";
+}
+);
+width = 1315;
 }
 );
 }
