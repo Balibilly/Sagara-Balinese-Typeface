@@ -3,7 +3,14 @@ glyphname = "ka-bali.below";
 layers = (
 {
 layerId = m01;
-width = 300;
+shapes = (
+{
+alignment = -1;
+pos = (-6,-606);
+ref = "na-bali";
+}
+);
+width = 925;
 }
 );
 }

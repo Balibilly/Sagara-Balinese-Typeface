@@ -3,7 +3,14 @@ glyphname = "kaMahaprana-bali.below";
 layers = (
 {
 layerId = m01;
-width = 300;
+shapes = (
+{
+alignment = -1;
+pos = (-6,-603);
+ref = "kaMahaprana-bali";
+}
+);
+width = 1300;
 }
 );
 }

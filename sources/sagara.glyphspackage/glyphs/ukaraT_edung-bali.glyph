@@ -1,10 +1,20 @@
 {
-color = 4;
 glyphname = "ukaraTedung-bali";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+alignment = -1;
+pos = (-8,0);
+ref = "ukara-bali";
+},
+{
+pos = (692,0);
+ref = "tedung-bali";
+}
+);
+width = 1394;
 }
 );
 unicode = 6922;

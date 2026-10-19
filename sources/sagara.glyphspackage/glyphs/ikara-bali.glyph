@@ -1,10 +1,19 @@
 {
-color = 4;
 glyphname = "ikara-bali";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = "nga-bali";
+},
+{
+alignment = -1;
+pos = (-14,20);
+ref = "ikara-bawah";
+}
+);
+width = 1106;
 }
 );
 unicode = 6919;

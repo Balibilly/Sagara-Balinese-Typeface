@@ -3,7 +3,39 @@ glyphname = "ba-bali.below";
 layers = (
 {
 layerId = m01;
-width = 300;
+shapes = (
+{
+alignment = -1;
+pos = (217,-604);
+ref = "ga-bawah";
+},
+{
+alignment = -1;
+pos = (30,-604);
+ref = "ba-tengah";
+},
+{
+alignment = -1;
+pos = (1105,-604);
+ref = "ga-bawah";
+scale = (-1,1);
+},
+{
+closed = 1;
+nodes = (
+(240,-342,l),
+(272,-342,l),
+(272,-252,l),
+(240,-252,l)
+);
+},
+{
+alignment = -1;
+pos = (0,-604);
+ref = "depan-2";
+}
+);
+width = 1183;
 }
 );
 }

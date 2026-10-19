@@ -167,7 +167,56 @@ sm  /zero.001  /baKembang_tedung-bali   mu
 sm  /zero.001  /nga_tedung-bali   mu
 sm  /zero.001  /jaJera_tedung-bali   mu
 
+sm  /zero.001  ᬅ  mu
+sm  /zero.001  ᬆ  mu
+sm  /zero.001  ᬇ  mu
+sm  /zero.001  ᬈ  mu
+sm  /zero.001  ᬉ  mu
+
+sm  /zero.001  ᬊ  mu
+
+sm  /zero.001  ᬋ  mu
+
+sm  /zero.001  ᬌ  mu
+
+sm  /zero.001  ᬍ  mu
+
+sm  /zero.001  /gaGora_tedung-bali   mu
+sm  /zero.001  /ya_tedung-bali   mu
+sm  /zero.001  ᬎ  mu
+
+sm  /zero.001  ᬸ  mu
+
+sm  /zero.001  /suku-bali.below   mu
+
+sm  /zero.001  ᬹ  mu
+
+sm  /zero.001  /sukuIlut-bali.below   mu
+
+sm  /zero.001  ᬺ  mu
+
+sm  /zero.001  ᭃ  mu
+
+sm  /zero.001  ᭫  mu
+sm  /zero.001  ᭬  mu
+
+sm  /zero.001  ᭭  mu
+
+sm  /zero.001  ᭳  mu
+
+sm  /zero.001  ᭮  mu
+
+sm  /zero.001  ᭯  mu
+sm  /zero.001  ᭰  mu
+sm  /zero.001  ᭱  mu
+sm  /zero.001  ᭲  mu
+sm  /zero.001  ᬄ  mu
+
 sm  /zero.001    mu
+
+
+
+
 
 ᬳᬦᬭᬓᬤᬢᬮᬕᬧᬯᬗᬡᬙᬟᬥᬠᬯᬬᬩᬫᬚᬜ
 ᬲᬘᬕᬭ
@@ -180,9 +229,14 @@ sm  /zero.001    mu
 
 ᬪᬛ/ha_tedung-bali/na_tedung-bali/naRambat_tedung-bali/ca_tedung-bali/caLaca_tedung-bali/ra_tedung-bali/ka_tedung-bali 
 
-/da_tedung-bali/daMadu_tedung-bali/ta_tedung-bali/sa_tedung-bali/wa_tedung-bali/la_tedung-bali/ma_tedung-bali/ga_tedung-bali/ba_tedung-bali/pa_tedung-bali/taMurdaMahaprana_tedung-bali/taLatik_tedung-bali/taTawa_tedung-bali/saSapa_tedung-bali/saSaga_tedung-bali/baKembang_tedung-bali/nga_tedung-bali/jaJera_tedung-bali 
+/da_tedung-bali/daMadu_tedung-bali/ta_tedung-bali/sa_tedung-bali/wa_tedung-bali/la_tedung-bali/ma_tedung-bali/ga_tedung-bali/ba_tedung-bali/pa_tedung-bali/taMurdaMahaprana_tedung-bali/taLatik_tedung-bali/taTawa_tedung-bali/saSapa_tedung-bali/saSaga_tedung-bali/baKembang_tedung-bali/nga_tedung-bali/jaJera_tedung-bali ᬅᬆᬇᬈᬉᬊ/gaGora_tedung-bali 
+ᬋᬌ/ya_tedung-bali ᬎ
 
-ᬶᬀᬷᬁᬃᭂ᬴ᬂ /ulu_uluRicem-bali  /ulu_cecek-bali  /ulu_surang-bali  /uluSari_uluRicem-bali  /uluSari_cecek-bali  /uluSari_surang-bali/pepet_cecek-bali  /pepet_surang-bali  /rerekan_cecek-bali  /rerekan_surang-bali  /rerekan_ulu_cecek-bali  /rerekan_uluSari_cecek-bali  /rerekan_pepet_cecek-bali  /rerekan_pepet_surang-bali  /ulu_uluCandra-bali  /uluSari_uluCandra-bali",
-"᭤᭥᭪᭧᭦᭣᭢᭨᭩᭡"
+ᬶᬀᬷᬁᬃᭂ᬴ᬂ /ulu_uluRicem-bali  /ulu_cecek-bali  /ulu_surang-bali  /uluSari_uluRicem-bali  /uluSari_cecek-bali  /uluSari_surang-bali/pepet_cecek-bali  /pepet_surang-bali  /rerekan_cecek-bali  /rerekan_surang-bali  /rerekan_ulu_cecek-bali  /rerekan_uluSari_cecek-bali  /rerekan_pepet_cecek-bali  /rerekan_pepet_surang-bali  /ulu_uluCandra-bali  /uluSari_uluCandra-bali  ᭃ᭬᭫᭭᭮᭳᭯᭰᭱᭲ᬄ
+ᬸ   /suku-bali.below    ᬹ   /sukuIlut-bali.below     ᬺ 
+
+/ha-bali.below/na-bali.below/naRambat-bali.below/ca-bali.below/caLaca-bali.below/ra-bali.below/ka-bali.below/kaMahaprana-bali.below/da-bali.below/daMadu-bali.below/daMurdaAlpaprana-bali.below/daMurdaMahaprana-bali.below/ta-bali.below/wa-bali.below/la-bali.below/ma-bali.below/ga-bali.below/ba-bali.below/nga-bali.below",
+"᭤᭥᭪᭧᭦᭣᭢᭨᭩᭡",
+"/ja-bali.below"
 );
 }

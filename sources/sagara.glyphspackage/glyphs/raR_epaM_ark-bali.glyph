@@ -1,10 +1,20 @@
 {
-color = 4;
 glyphname = "raRepaMark-bali";
 layers = (
 {
 layerId = m01;
-width = 300;
+shapes = (
+{
+alignment = -1;
+pos = (99,-552);
+ref = cecek_tengah;
+scale = (0.8825,0.9139);
+},
+{
+ref = "ra-bali.below";
+}
+);
+width = 932;
 }
 );
 unicode = 6970;

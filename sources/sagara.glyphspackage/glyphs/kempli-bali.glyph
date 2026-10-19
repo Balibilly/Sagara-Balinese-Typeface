@@ -1,10 +1,24 @@
 {
-color = 4;
 glyphname = "kempli-bali";
 layers = (
 {
 layerId = m01;
-width = 300;
+shapes = (
+{
+closed = 1;
+nodes = (
+(399,649,o),
+(289,662,o),
+(146,694,c),
+(100,633,l),
+(245,601,o),
+(401,617,o),
+(531,652,c),
+(523,682,l)
+);
+}
+);
+width = 631;
 }
 );
 unicode = 7022;
