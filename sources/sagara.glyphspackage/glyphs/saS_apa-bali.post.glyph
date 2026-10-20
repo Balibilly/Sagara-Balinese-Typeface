@@ -3,7 +3,18 @@ glyphname = "saSapa-bali.post";
 layers = (
 {
 layerId = m01;
-width = 300;
+shapes = (
+{
+alignment = -1;
+pos = (4,0);
+ref = "sa-bali.post";
+},
+{
+pos = (-136,-10);
+ref = cecek_tengah;
+}
+);
+width = 682;
 }
 );
 }

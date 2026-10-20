@@ -3,7 +3,18 @@ glyphname = "talingRepaTedung-bali";
 layers = (
 {
 layerId = m01;
-width = 300;
+shapes = (
+{
+alignment = -1;
+ref = "talingRepa-bali";
+},
+{
+alignment = -1;
+pos = (1123,0);
+ref = "tedung-bali";
+}
+);
+width = 1825;
 }
 );
 unicode = 6977;

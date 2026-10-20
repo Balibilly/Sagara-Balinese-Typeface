@@ -3,7 +3,26 @@ glyphname = "taLatik-bali.below";
 layers = (
 {
 layerId = m01;
-width = 300;
+shapes = (
+{
+pos = (185,0);
+ref = "taMurdaMahaprana-bali.below";
+},
+{
+closed = 1;
+nodes = (
+(188,-411,o),
+(167,-408,o),
+(127,-393,c),
+(100,-445,l),
+(139,-469,o),
+(178,-471,o),
+(220,-472,c),
+(226,-412,l)
+);
+}
+);
+width = 1160;
 }
 );
 }

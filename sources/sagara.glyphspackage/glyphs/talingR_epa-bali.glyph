@@ -3,7 +3,18 @@ glyphname = "talingRepa-bali";
 layers = (
 {
 layerId = m01;
-width = 300;
+shapes = (
+{
+alignment = -1;
+ref = "taling-bali";
+},
+{
+alignment = -1;
+pos = (-387,970);
+ref = "ikara-bawah";
+}
+);
+width = 583;
 }
 );
 unicode = 6975;

@@ -3,7 +3,16 @@ glyphname = "taTawa-bali.below";
 layers = (
 {
 layerId = m01;
-width = 300;
+shapes = (
+{
+ref = "wa-bali.below";
+},
+{
+pos = (52,-645);
+ref = cecek_tengah;
+}
+);
+width = 875;
 }
 );
 }

@@ -3,7 +3,19 @@ glyphname = "laLengaTedungMark-bali";
 layers = (
 {
 layerId = m01;
-width = 300;
+shapes = (
+{
+ref = "la-bali.below";
+},
+{
+ref = "pepet-bali";
+},
+{
+pos = (770,0);
+ref = "tedung-bali";
+}
+);
+width = 1472;
 }
 );
 unicode = 6973;

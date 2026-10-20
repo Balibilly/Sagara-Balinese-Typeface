@@ -212,10 +212,7 @@ sm  /zero.001  ᭱  mu
 sm  /zero.001  ᭲  mu
 sm  /zero.001  ᬄ  mu
 
-sm  /zero.001    mu
-
-
-
+sm  /zero.001  ᭄  mu
 
 
 ᬳᬦᬭᬓᬤᬢᬮᬕᬧᬯᬗᬡᬙᬟᬥᬠᬯᬬᬩᬫᬚᬜ
@@ -235,8 +232,12 @@ sm  /zero.001    mu
 ᬶᬀᬷᬁᬃᭂ᬴ᬂ /ulu_uluRicem-bali  /ulu_cecek-bali  /ulu_surang-bali  /uluSari_uluRicem-bali  /uluSari_cecek-bali  /uluSari_surang-bali/pepet_cecek-bali  /pepet_surang-bali  /rerekan_cecek-bali  /rerekan_surang-bali  /rerekan_ulu_cecek-bali  /rerekan_uluSari_cecek-bali  /rerekan_pepet_cecek-bali  /rerekan_pepet_surang-bali  /ulu_uluCandra-bali  /uluSari_uluCandra-bali  ᭃ᭬᭫᭭᭮᭳᭯᭰᭱᭲ᬄ
 ᬸ   /suku-bali.below    ᬹ   /sukuIlut-bali.below     ᬺ 
 
-/ha-bali.below/na-bali.below/naRambat-bali.below/ca-bali.below/caLaca-bali.below/ra-bali.below/ka-bali.below/kaMahaprana-bali.below/da-bali.below/daMadu-bali.below/daMurdaAlpaprana-bali.below/daMurdaMahaprana-bali.below/ta-bali.below/wa-bali.below/la-bali.below/ma-bali.below/ga-bali.below/ba-bali.below/nga-bali.below",
+/ha-bali.below/na-bali.below/naRambat-bali.below/ca-bali.below/caLaca-bali.below/ra-bali.below/ka-bali.below/kaMahaprana-bali.below/da-bali.below/daMadu-bali.below/daMurdaAlpaprana-bali.below/daMurdaMahaprana-bali.below/ta-bali.below/wa-bali.below/la-bali.below/ma-bali.below/ga-bali.below/ba-bali.below/nga-bali.below/ja-bali.below/nya-bali.below/taTawa-bali.below/gaGora-bali.below/baKembang-bali.below/saSaga-bali.below/taMurdaMahaprana-bali.below/taLatik-bali.below 
+
+᭄/jaJera-bali.post/ya-bali.post/ya-bali.post.short/ya-bali.post2/ya-bali.post2.short/sa-bali.post/saSapa-bali.post/paKapal-bali.post ᬻᬽᬾᬿ
+
+ᭀᭁ",
 "᭤᭥᭪᭧᭦᭣᭢᭨᭩᭡",
-"/ja-bali.below"
+"ᭁ"
 );
 }

@@ -3,7 +3,16 @@ glyphname = "saSaga-bali.below";
 layers = (
 {
 layerId = m01;
-width = 300;
+shapes = (
+{
+ref = "ga-bali.below";
+},
+{
+pos = (181,-699);
+ref = cecek_tengah;
+}
+);
+width = 919;
 }
 );
 }
