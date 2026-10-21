@@ -1,0 +1,19 @@
+{
+glyphname = "ta-bali.below_ya-bali.post2";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (332,0);
+ref = "ya-bali.post2";
+},
+{
+ref = "ta-bali.below";
+}
+);
+width = 1082;
+}
+);
+}

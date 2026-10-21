@@ -1,0 +1,20 @@
+{
+glyphname = "caLaca-bali.below_ya-bali.post2";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (476,0);
+ref = "ya-bali.post2";
+},
+{
+pos = (0,-604);
+ref = "caLaca-bali";
+}
+);
+width = 1226;
+}
+);
+}
