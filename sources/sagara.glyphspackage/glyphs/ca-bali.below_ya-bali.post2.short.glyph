@@ -1,0 +1,28 @@
+{
+glyphname = "ca-bali.below_ya-bali.post2.short";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (340,0);
+ref = "ya-bali.post2.short";
+},
+{
+ref = "ca-bali.below";
+},
+{
+closed = 1;
+nodes = (
+(785,-607,l),
+(817,-607,l),
+(817,-574,l),
+(785,-574,l)
+);
+}
+);
+width = 1090;
+}
+);
+}
