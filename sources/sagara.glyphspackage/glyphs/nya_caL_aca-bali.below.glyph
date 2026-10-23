@@ -1,0 +1,19 @@
+{
+glyphname = "nya_caLaca-bali.below";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "nya-bali";
+},
+{
+pos = (157,0);
+ref = "caLaca-bali.below";
+}
+);
+width = 1663;
+}
+);
+}

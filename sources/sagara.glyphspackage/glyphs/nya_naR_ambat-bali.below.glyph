@@ -1,0 +1,19 @@
+{
+glyphname = "nya_naRambat-bali.below";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "nya-bali";
+},
+{
+pos = (100,0);
+ref = "naRambat-bali.below";
+}
+);
+width = 1663;
+}
+);
+}

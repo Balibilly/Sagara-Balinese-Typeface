@@ -1,0 +1,19 @@
+{
+glyphname = "nya_kaMahaprana-bali.below";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "nya-bali";
+},
+{
+pos = (178,0);
+ref = "kaMahaprana-bali.below";
+}
+);
+width = 1663;
+}
+);
+}

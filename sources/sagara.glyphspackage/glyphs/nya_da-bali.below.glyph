@@ -1,0 +1,19 @@
+{
+glyphname = "nya_da-bali.below";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "nya-bali";
+},
+{
+pos = (316,0);
+ref = "da-bali.below";
+}
+);
+width = 1663;
+}
+);
+}

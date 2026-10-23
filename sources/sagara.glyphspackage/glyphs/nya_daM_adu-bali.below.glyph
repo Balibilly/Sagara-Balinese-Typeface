@@ -1,0 +1,19 @@
+{
+glyphname = "nya_daMadu-bali.below";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "nya-bali";
+},
+{
+pos = (217,0);
+ref = "daMadu-bali.below";
+}
+);
+width = 1663;
+}
+);
+}

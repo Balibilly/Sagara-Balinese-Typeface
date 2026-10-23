@@ -1,0 +1,19 @@
+{
+glyphname = "nya_daMurdaAlpaprana-bali.below";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "nya-bali";
+},
+{
+pos = (203,0);
+ref = "daMurdaAlpaprana-bali.below";
+}
+);
+width = 1663;
+}
+);
+}
