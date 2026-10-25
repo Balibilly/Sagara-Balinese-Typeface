@@ -1,0 +1,19 @@
+{
+glyphname = "nya_saSaga-bali.below";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "nya-bali";
+},
+{
+pos = (183,0);
+ref = "saSaga-bali.below";
+}
+);
+width = 1663;
+}
+);
+}
