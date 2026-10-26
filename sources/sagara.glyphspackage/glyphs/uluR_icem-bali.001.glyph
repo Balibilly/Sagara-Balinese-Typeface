@@ -1,0 +1,17 @@
+{
+glyphname = "uluRicem-bali.001";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "ulu-bali";
+},
+{
+ref = "dot-ulu-rincem";
+}
+);
+width = 681;
+}
+);
+}

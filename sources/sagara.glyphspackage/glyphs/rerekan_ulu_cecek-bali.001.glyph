@@ -1,0 +1,22 @@
+{
+glyphname = "rerekan_ulu_cecek-bali.001";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "rerekan-bali";
+},
+{
+pos = (530,0);
+ref = "ulu-bali";
+},
+{
+pos = (1110,-20);
+ref = "cecek-bali";
+}
+);
+width = 1635;
+}
+);
+}

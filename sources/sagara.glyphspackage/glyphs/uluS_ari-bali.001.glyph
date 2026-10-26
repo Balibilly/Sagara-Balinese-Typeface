@@ -1,0 +1,17 @@
+{
+glyphname = "uluSari-bali.001";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "ulu-bali";
+},
+{
+ref = "cecek-ulusari";
+}
+);
+width = 681;
+}
+);
+}
