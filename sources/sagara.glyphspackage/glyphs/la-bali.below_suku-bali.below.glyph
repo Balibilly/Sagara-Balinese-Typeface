@@ -1,0 +1,20 @@
+{
+glyphname = "la-bali.below_suku-bali.below";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-604);
+ref = "la-bali";
+},
+{
+pos = (704,-181);
+ref = "suku-bali.below";
+}
+);
+width = 1108;
+}
+);
+}

@@ -5,11 +5,22 @@ layers = (
 layerId = m01;
 shapes = (
 {
+alignment = -1;
 ref = f;
 },
 {
-pos = (364,0);
+alignment = -1;
+pos = (266,0);
 ref = f;
+},
+{
+closed = 1;
+nodes = (
+(248,409,l),
+(358,409,l),
+(358,441,l),
+(248,441,l)
+);
 }
 );
 width = 728;

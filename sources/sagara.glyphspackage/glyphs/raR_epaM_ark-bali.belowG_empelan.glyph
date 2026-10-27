@@ -1,0 +1,19 @@
+{
+glyphname = "raRepaMark-bali.belowGempelan";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "ra-bali.belowGempelan";
+},
+{
+pos = (-71,-722);
+ref = cecek_tengah;
+}
+);
+width = 659;
+}
+);
+}

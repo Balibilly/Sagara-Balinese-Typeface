@@ -1,0 +1,27 @@
+{
+glyphname = "caLaca-bali.below_suku-bali.below";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "caLaca-bali.below";
+},
+{
+pos = (540,-218);
+ref = "suku-bali.below";
+},
+{
+closed = 1;
+nodes = (
+(812,-638,l),
+(844,-638,l),
+(844,-314,l),
+(812,-314,l)
+);
+}
+);
+width = 944;
+}
+);
+}

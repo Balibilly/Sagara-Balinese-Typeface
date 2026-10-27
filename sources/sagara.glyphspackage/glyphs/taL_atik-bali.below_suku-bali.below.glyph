@@ -1,0 +1,27 @@
+{
+glyphname = "taLatik-bali.below_suku-bali.below";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "taLatik-bali.below";
+},
+{
+pos = (540,-152);
+ref = "suku-bali.below";
+},
+{
+closed = 1;
+nodes = (
+(812,-576,l),
+(844,-576,l),
+(844,-439,l),
+(812,-439,l)
+);
+}
+);
+width = 1016;
+}
+);
+}
