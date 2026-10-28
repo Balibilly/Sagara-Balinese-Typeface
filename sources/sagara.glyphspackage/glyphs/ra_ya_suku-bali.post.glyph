@@ -3,7 +3,17 @@ glyphname = "ra_ya_suku-bali.post";
 layers = (
 {
 layerId = m01;
-width = 300;
+shapes = (
+{
+alignment = -1;
+ref = "ra_ya-bali.post";
+},
+{
+pos = (1015,20);
+ref = "suku-bali.alt";
+}
+);
+width = 1612;
 }
 );
 }
