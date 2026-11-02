@@ -12,18 +12,9 @@ ref = f;
 alignment = -1;
 pos = (266,0);
 ref = f;
-},
-{
-closed = 1;
-nodes = (
-(248,409,l),
-(358,409,l),
-(358,441,l),
-(248,441,l)
-);
 }
 );
-width = 728;
+width = 630;
 }
 );
 metricLeft = f;
