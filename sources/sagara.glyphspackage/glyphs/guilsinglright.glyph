@@ -28,7 +28,7 @@ nodes = (
 );
 }
 );
-width = 336;
+width = 330;
 }
 );
 unicode = 8250;

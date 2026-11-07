@@ -29,5 +29,6 @@ nodes = (
 width = 146;
 }
 );
+metricRight = "=|";
 unicode = 44;
 }

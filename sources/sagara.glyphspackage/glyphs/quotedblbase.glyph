@@ -5,14 +5,17 @@ layers = (
 layerId = m01;
 shapes = (
 {
+pos = (-4,0);
 ref = comma;
 },
 {
+pos = (-4,0);
 ref = comma;
 }
 );
-width = 146;
+width = 138;
 }
 );
+metricRight = "=|";
 unicode = 8222;
 }

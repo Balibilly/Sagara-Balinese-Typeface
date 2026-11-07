@@ -5,17 +5,21 @@ layers = (
 layerId = m01;
 shapes = (
 {
+pos = (-4,0);
 ref = period;
 },
 {
+pos = (146,0);
 ref = period;
 },
 {
+pos = (285,0);
 ref = period;
 }
 );
-width = 143;
+width = 430;
 }
 );
+metricRight = "=|";
 unicode = 8230;
 }
