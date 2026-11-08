@@ -1,5 +1,7 @@
 {
 glyphname = guilsinglleft;
+kernLeft = guillemetleft;
+kernRight = guillemetleft;
 layers = (
 {
 layerId = m01;

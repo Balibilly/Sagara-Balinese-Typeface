@@ -1,5 +1,7 @@
 {
 glyphname = infinity;
+kernLeft = infinity;
+kernRight = infinity;
 layers = (
 {
 layerId = m01;

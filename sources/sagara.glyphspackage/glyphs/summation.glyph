@@ -1,5 +1,7 @@
 {
 glyphname = summation;
+kernLeft = summation;
+kernRight = summation;
 layers = (
 {
 layerId = m01;

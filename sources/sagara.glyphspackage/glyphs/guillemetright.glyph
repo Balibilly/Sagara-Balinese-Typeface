@@ -1,5 +1,7 @@
 {
 glyphname = guillemetright;
+kernLeft = guillemetright;
+kernRight = guillemetright;
 layers = (
 {
 layerId = m01;
@@ -51,7 +53,7 @@ nodes = (
 );
 }
 );
-width = 556;
+width = 573;
 }
 );
 unicode = 187;

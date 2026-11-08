@@ -13,6 +13,12 @@ ftajags
 vwxykz
 1234r567890O.,-
 
+lowercase 
+nmhulir
+ocbdpq
+ftjags
+vwxykz
+
 ",
 "ABCODEFGHIJKLMN
 OPQRSTUVWXYZ
@@ -300,7 +306,21 @@ AJUSTXYZ
 
 bdpqhklimn
 ceo
-afgjrstuvwxyz",
-""
+afgjrstuvwxyz
+
+1234567890
+
+.,:;…!¡?¿·•*#///backslash -–—_(){}[]‚„“”‘’«»‹›\"'
+
+฿@&¶©®°|¦†‡¢¤$€₩¥+−×÷=≠><≥≤±≈~¬^∞∫∏∑√∂%‰",
+";…!¡?¿·•*#///backslash -–—_(){}[]‚„“”‘’«»‹›\"'",
+".,:;…
+!¡?¿·
+•*#///backslash 
+-–—_(){}
+[]‚„“”‘’
+«»‹›\"'",
+"฿@&¶©®°|¦†‡¢¤$€₩¥+−
+×÷=≠><≥≤±≈~¬^∞∫∏∑√∂%‰"
 );
 }

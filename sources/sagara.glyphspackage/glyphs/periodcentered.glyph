@@ -1,5 +1,7 @@
 {
 glyphname = periodcentered;
+kernLeft = periodcentered;
+kernRight = periodcentered;
 layers = (
 {
 layerId = m01;
@@ -7,22 +9,22 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(28,312,o),
-(5,289,o),
-(5,260,cs),
-(5,232,o),
-(28,209,o),
-(56,209,cs),
-(85,209,o),
-(108,232,o),
-(108,260,cs),
-(108,289,o),
-(85,312,o),
-(56,312,cs)
+(42,312,o),
+(19,289,o),
+(19,260,cs),
+(19,232,o),
+(42,209,o),
+(70,209,cs),
+(99,209,o),
+(122,232,o),
+(122,260,cs),
+(122,289,o),
+(99,312,o),
+(70,312,cs)
 );
 }
 );
-width = 113;
+width = 141;
 }
 );
 metricRight = "=|";

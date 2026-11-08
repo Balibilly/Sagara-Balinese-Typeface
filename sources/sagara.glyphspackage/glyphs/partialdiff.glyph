@@ -1,5 +1,7 @@
 {
 glyphname = partialdiff;
+kernLeft = partialdiff;
+kernRight = partialdiff;
 layers = (
 {
 layerId = m01;

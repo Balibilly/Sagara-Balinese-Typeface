@@ -1,5 +1,7 @@
 {
 glyphname = perthousand;
+kernLeft = percent;
+kernRight = percent;
 layers = (
 {
 layerId = m01;

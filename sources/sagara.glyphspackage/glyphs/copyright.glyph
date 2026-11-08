@@ -1,5 +1,7 @@
 {
 glyphname = copyright;
+kernLeft = copyright;
+kernRight = copyright;
 layers = (
 {
 layerId = m01;

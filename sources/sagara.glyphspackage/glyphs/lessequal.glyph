@@ -1,5 +1,7 @@
 {
 glyphname = lessequal;
+kernLeft = lessequal;
+kernRight = lessequal;
 layers = (
 {
 layerId = m01;

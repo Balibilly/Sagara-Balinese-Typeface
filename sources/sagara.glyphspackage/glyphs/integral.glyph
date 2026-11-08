@@ -1,5 +1,7 @@
 {
 glyphname = integral;
+kernLeft = integral;
+kernRight = integral;
 layers = (
 {
 layerId = m01;

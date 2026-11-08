@@ -1,5 +1,7 @@
 {
 glyphname = won;
+kernLeft = won;
+kernRight = won;
 layers = (
 {
 layerId = m01;
@@ -110,7 +112,7 @@ nodes = (
 );
 }
 );
-width = 897;
+width = 905;
 }
 );
 unicode = 8361;

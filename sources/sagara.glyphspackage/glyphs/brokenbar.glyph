@@ -1,5 +1,7 @@
 {
 glyphname = brokenbar;
+kernLeft = brokenbar;
+kernRight = brokenbar;
 layers = (
 {
 layerId = m01;
