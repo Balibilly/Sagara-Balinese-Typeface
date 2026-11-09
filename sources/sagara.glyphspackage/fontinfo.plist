@@ -141,6 +141,16 @@ GSOffsetVertical = 16;
 visible = 1;
 }
 );
+kerningLTR = {
+m01 = {
+"@MMK_L_A" = {
+"@MMK_R_W" = -32;
+};
+"@MMK_L_W" = {
+"@MMK_R_A" = -1;
+};
+};
+};
 metrics = (
 {
 type = ascender;
