@@ -294,13 +294,16 @@ m01 = {
 "@MMK_R_A" = -61;
 "@MMK_R_J" = -85;
 "@MMK_R_O" = -30;
+"@MMK_R_V" = -20;
+"@MMK_R_W" = -40;
 "@MMK_R_X" = -40;
 "@MMK_R_Y" = -30;
-"@MMK_R_comma" = -50;
+"@MMK_R_Z" = -40;
+"@MMK_R_comma" = -60;
 "@MMK_R_ellipsis" = -80;
-"@MMK_R_hyphen" = -20;
+"@MMK_R_hyphen" = -30;
 "@MMK_R_o" = -40;
-"@MMK_R_period" = -10;
+"@MMK_R_period" = -40;
 };
 "@MMK_L_R" = {
 "@MMK_R_O" = -20;
@@ -588,8 +591,10 @@ g_u = -50;
 };
 "@MMK_L_quotedblright" = {
 "@MMK_R_A" = -27;
+"@MMK_R_O" = -20;
 };
 "@MMK_L_quoteright" = {
+"@MMK_R_S" = -10;
 "@MMK_R_o" = -60;
 "@MMK_R_s" = -40;
 };
