@@ -145,6 +145,7 @@ kerningLTR = {
 m01 = {
 "@MMK_L_A" = {
 "@MMK_R_O" = -33;
+"@MMK_R_S" = -12;
 "@MMK_R_T" = -48;
 "@MMK_R_V" = -69;
 "@MMK_R_W" = -67;
@@ -244,7 +245,9 @@ m01 = {
 };
 "@MMK_L_L" = {
 "@MMK_R_A" = -35;
+"@MMK_R_H" = -20;
 "@MMK_R_O" = -58;
+"@MMK_R_S" = -16;
 "@MMK_R_T" = -90;
 "@MMK_R_U" = -70;
 "@MMK_R_V" = -110;
@@ -307,8 +310,13 @@ m01 = {
 };
 "@MMK_L_R" = {
 "@MMK_R_O" = -20;
+"@MMK_R_Y" = -18;
+"@MMK_R_period" = -10;
 };
 "@MMK_L_S" = {
+"@MMK_R_A" = -25;
+"@MMK_R_J" = -9;
+"@MMK_R_O" = -20;
 "@MMK_R_V" = -30;
 "@MMK_R_W" = -30;
 "@MMK_R_X" = -30;
@@ -326,10 +334,12 @@ m01 = {
 "@MMK_R_J" = -71;
 "@MMK_R_O" = -23;
 "@MMK_R_c" = -30;
+"@MMK_R_comma" = -50;
 "@MMK_R_ellipsis" = -30;
 "@MMK_R_hyphen" = -40;
 "@MMK_R_n" = -20;
 "@MMK_R_o" = -30;
+"@MMK_R_period" = -70;
 "@MMK_R_y" = -50;
 g_u = -50;
 };
