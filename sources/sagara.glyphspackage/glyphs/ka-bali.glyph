@@ -2,6 +2,16 @@
 glyphname = "ka-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (1053,0);
+},
+{
+name = top;
+pos = (563,580);
+}
+);
 layerId = m01;
 shapes = (
 {

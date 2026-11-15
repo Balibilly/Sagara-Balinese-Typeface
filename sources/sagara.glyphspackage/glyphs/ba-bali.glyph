@@ -2,6 +2,16 @@
 glyphname = "ba-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (1216,0);
+},
+{
+name = top;
+pos = (668,580);
+}
+);
 guides = (
 {
 pos = (1028,-696);
