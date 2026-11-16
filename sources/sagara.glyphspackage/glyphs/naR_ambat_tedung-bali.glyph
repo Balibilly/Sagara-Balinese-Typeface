@@ -2,6 +2,16 @@
 glyphname = "naRambat_tedung-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (1179,0);
+},
+{
+name = top;
+pos = (754,617);
+}
+);
 layerId = m01;
 shapes = (
 {

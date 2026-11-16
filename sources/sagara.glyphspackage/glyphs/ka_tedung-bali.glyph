@@ -2,6 +2,16 @@
 glyphname = "ka_tedung-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (1177,0);
+},
+{
+name = top;
+pos = (683,617);
+}
+);
 layerId = m01;
 shapes = (
 {

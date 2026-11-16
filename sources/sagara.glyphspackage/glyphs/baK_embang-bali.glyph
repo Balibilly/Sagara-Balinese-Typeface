@@ -2,6 +2,16 @@
 glyphname = "baKembang-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (869,0);
+},
+{
+name = top;
+pos = (454,617);
+}
+);
 layerId = m01;
 shapes = (
 {

@@ -2,6 +2,16 @@
 glyphname = "da-bali.below";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (394,0);
+},
+{
+name = bottom;
+pos = (394,-605);
+}
+);
 layerId = m01;
 shapes = (
 {

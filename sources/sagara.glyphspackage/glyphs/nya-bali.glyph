@@ -2,6 +2,16 @@
 glyphname = "nya-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (1340,0);
+},
+{
+name = top;
+pos = (656,617);
+}
+);
 layerId = m01;
 shapes = (
 {

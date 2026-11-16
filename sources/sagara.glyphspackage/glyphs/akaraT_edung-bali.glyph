@@ -2,6 +2,16 @@
 glyphname = "akaraTedung-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (1206,0);
+},
+{
+name = top;
+pos = (755,617);
+}
+);
 layerId = m01;
 shapes = (
 {

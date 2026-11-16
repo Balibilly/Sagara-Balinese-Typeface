@@ -2,6 +2,16 @@
 glyphname = "gaGora_tedung-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (1286,0);
+},
+{
+name = top;
+pos = (645,617);
+}
+);
 layerId = m01;
 shapes = (
 {

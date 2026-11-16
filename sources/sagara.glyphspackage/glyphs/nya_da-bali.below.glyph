@@ -9,7 +9,7 @@ alignment = -1;
 ref = "nya-bali";
 },
 {
-pos = (316,0);
+pos = (946,0);
 ref = "da-bali.below";
 }
 );

@@ -2,6 +2,16 @@
 glyphname = "gaGora-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (1023,0);
+},
+{
+name = top;
+pos = (636,617);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -45,8 +55,8 @@ nodes = (
 (958,469,o),
 (991,395,o),
 (991,323,cs),
-(991,1,l),
-(1023,1,l),
+(991,0,l),
+(1023,0,l),
 (1023,327,ls),
 (1023,504,o),
 (917,568,o),

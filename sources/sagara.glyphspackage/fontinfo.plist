@@ -19,29 +19,66 @@ automatic = 1;
 code = "lookup ccmp_bali_1 {
 	lookupflag 0;
 	sub rerekan-bali pepet-bali cecek-bali by rerekan_pepet_cecek-bali;
+	sub rerekan-bali.001 pepet-bali.001 cecek-bali.001 by rerekan_pepet_cecek-bali.001;
 	sub rerekan-bali pepet-bali surang-bali by rerekan_pepet_surang-bali;
+	sub rerekan-bali.001 pepet-bali.001 surang-bali.001 by rerekan_pepet_surang-bali.001;
 	sub rerekan-bali uluSari-bali cecek-bali by rerekan_uluSari_cecek-bali;
+	sub rerekan-bali.001 uluSari-bali.001 cecek-bali.001 by rerekan_uluSari_cecek-bali.001;
 	sub rerekan-bali uluSari-bali surang-bali by rerekan_uluSari_surang-bali;
+	sub rerekan-bali.001 uluSari-bali.001 surang-bali.001 by rerekan_uluSari_surang-bali.001;
 	sub rerekan-bali ulu-bali cecek-bali by rerekan_ulu_cecek-bali;
+	sub rerekan-bali.001 ulu-bali.001 cecek-bali.001 by rerekan_ulu_cecek-bali.001;
 	sub rerekan-bali ulu-bali surang-bali by rerekan_ulu_surang-bali;
+	sub rerekan-bali.001 ulu-bali.001 surang-bali.001 by rerekan_ulu_surang-bali.001;
+	sub nya-bali suku-bali by nya_suku-bali;
+	sub nya-bali sukuIlut-bali by nya_sukuIlut-bali;
 	sub pepet-bali cecek-bali by pepet_cecek-bali;
+	sub pepet-bali.001 cecek-bali.001 by pepet_cecek-bali.001;
 	sub pepet-bali surang-bali by pepet_surang-bali;
+	sub pepet-bali.001 surang-bali.001 by pepet_surang-bali.001;
 	sub rerekan-bali cecek-bali by rerekan_cecek-bali;
+	sub rerekan-bali.001 cecek-bali.001 by rerekan_cecek-bali.001;
 	sub rerekan-bali surang-bali by rerekan_surang-bali;
+	sub rerekan-bali.001 surang-bali.001 by rerekan_surang-bali.001;
 	sub uluSari-bali cecek-bali by uluSari_cecek-bali;
+	sub uluSari-bali.001 cecek-bali.001 by uluSari_cecek-bali.001;
 	sub uluSari-bali surang-bali by uluSari_surang-bali;
+	sub uluSari-bali.001 surang-bali.001 by uluSari_surang-bali.001;
 	sub uluSari-bali uluCandra-bali by uluSari_uluCandra-bali;
+	sub uluSari-bali.001 uluCandra-bali.001 by uluSari_uluCandra-bali.001;
 	sub uluSari-bali uluRicem-bali by uluSari_uluRicem-bali;
+	sub uluSari-bali.001 uluRicem-bali.001 by uluSari_uluRicem-bali.001;
 	sub ulu-bali cecek-bali by ulu_cecek-bali;
+	sub ulu-bali.001 cecek-bali.001 by ulu_cecek-bali.001;
 	sub ulu-bali surang-bali by ulu_surang-bali;
+	sub ulu-bali.001 surang-bali.001 by ulu_surang-bali.001;
 	sub ulu-bali uluCandra-bali by ulu_uluCandra-bali;
+	sub ulu-bali.001 uluCandra-bali.001 by ulu_uluCandra-bali.001;
 	sub ulu-bali uluRicem-bali by ulu_uluRicem-bali;
+	sub ulu-bali.001 uluRicem-bali.001 by ulu_uluRicem-bali.001;
 } ccmp_bali_1;
 
 script bali;
 lookup ccmp_bali_1;
 ";
 tag = ccmp;
+},
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;
+sub C H by C_H;
+sub L M by L_M;
+sub L N by L_N;
+sub S a by S_a;
+sub T H by T_H;
+sub e a by e_a;
+sub e l by e_l;
+sub g a by g_a;
+sub g u by g_u;
+sub r a by r_a;
+sub t t by t_t;
+";
+tag = dlig;
 },
 {
 automatic = 1;
@@ -60,11 +97,11 @@ pos = (100,617);
 },
 {
 angle = 90;
-pos = (795,518);
+pos = (875,518);
 },
 {
 angle = 90;
-pos = (1003,-39);
+pos = (1007,-39);
 },
 {
 pos = (1142,-752);
@@ -78,7 +115,7 @@ pos = (146,617);
 },
 {
 angle = 90;
-pos = (716,500);
+pos = (724,500);
 },
 {
 pos = (197,1021);
@@ -91,7 +128,7 @@ pos = (1150,-620);
 },
 {
 angle = 90;
-pos = (684,500);
+pos = (660,500);
 },
 {
 pos = (1185,-1077);
@@ -104,13 +141,17 @@ pos = (232,-27);
 },
 {
 angle = 90;
-pos = (308,436);
+pos = (538,425);
 },
 {
 pos = (146,617);
 },
 {
 pos = (157,577);
+},
+{
+angle = 90;
+pos = (684,500);
 }
 );
 id = m01;

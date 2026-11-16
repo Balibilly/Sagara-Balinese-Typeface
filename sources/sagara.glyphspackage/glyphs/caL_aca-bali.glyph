@@ -2,6 +2,16 @@
 glyphname = "caLaca-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (953,0);
+},
+{
+name = top;
+pos = (553,617);
+}
+);
 layerId = m01;
 shapes = (
 {

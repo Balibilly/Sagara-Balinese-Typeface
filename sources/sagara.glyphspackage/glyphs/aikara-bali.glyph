@@ -2,6 +2,16 @@
 glyphname = "aikara-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (1035,-439);
+},
+{
+name = top;
+pos = (630,617);
+}
+);
 layerId = m01;
 shapes = (
 {

@@ -2,6 +2,12 @@
 glyphname = "suku-bali";
 layers = (
 {
+anchors = (
+{
+name = _buttom;
+pos = (365,0);
+}
+);
 layerId = m01;
 shapes = (
 {

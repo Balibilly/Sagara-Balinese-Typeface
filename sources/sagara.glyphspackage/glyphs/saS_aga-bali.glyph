@@ -2,6 +2,16 @@
 glyphname = "saSaga-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (1004,0);
+},
+{
+name = top;
+pos = (575,617);
+}
+);
 layerId = m01;
 shapes = (
 {

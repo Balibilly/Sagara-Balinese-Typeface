@@ -10,6 +10,7 @@ pos = (212,0);
 ref = "ya-bali.post2.short";
 },
 {
+pos = (362,-891);
 ref = "da-bali.below";
 }
 );

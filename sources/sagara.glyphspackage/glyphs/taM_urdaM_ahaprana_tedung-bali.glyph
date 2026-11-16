@@ -2,6 +2,16 @@
 glyphname = "taMurdaMahaprana_tedung-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (1076,0);
+},
+{
+name = top;
+pos = (692,617);
+}
+);
 layerId = m01;
 shapes = (
 {

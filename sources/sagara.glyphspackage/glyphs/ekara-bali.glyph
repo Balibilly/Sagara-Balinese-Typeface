@@ -2,6 +2,16 @@
 glyphname = "ekara-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (689,0);
+},
+{
+name = top;
+pos = (422,617);
+}
+);
 layerId = m01;
 shapes = (
 {

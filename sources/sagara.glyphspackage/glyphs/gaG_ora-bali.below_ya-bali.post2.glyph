@@ -2,6 +2,12 @@
 glyphname = "gaGora-bali.below_ya-bali.post2";
 layers = (
 {
+anchors = (
+{
+name = top;
+pos = (661,617);
+}
+);
 layerId = m01;
 shapes = (
 {
