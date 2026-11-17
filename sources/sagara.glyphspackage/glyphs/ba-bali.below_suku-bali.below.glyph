@@ -24,7 +24,7 @@ pos = (0,-605);
 ref = "ba-bali";
 },
 {
-pos = (887,-181);
+pos = (887,-185);
 ref = "suku-bali.below";
 }
 );

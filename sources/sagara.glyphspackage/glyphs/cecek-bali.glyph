@@ -2,6 +2,12 @@
 glyphname = "cecek-bali";
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (425,646);
+}
+);
 layerId = m01;
 shapes = (
 {

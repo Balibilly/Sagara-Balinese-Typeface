@@ -2,6 +2,16 @@
 glyphname = "rerekan-bali";
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (321,617);
+},
+{
+name = top;
+pos = (787,617);
+}
+);
 layerId = m01;
 shapes = (
 {

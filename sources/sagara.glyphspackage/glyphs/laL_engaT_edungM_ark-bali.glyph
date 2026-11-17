@@ -2,12 +2,28 @@
 glyphname = "laLengaTedungMark-bali";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (900,0);
+},
+{
+name = _top;
+pos = (671,630);
+},
+{
+name = bottom;
+pos = (900,-620);
+}
+);
 layerId = m01;
 shapes = (
 {
 ref = "la-bali.below";
 },
 {
+alignment = -1;
+pos = (152,-29);
 ref = "pepet-bali";
 },
 {

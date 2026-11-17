@@ -2,6 +2,12 @@
 glyphname = "suku-bali.alt";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (169,-329);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -31,8 +37,8 @@ nodes = (
 (285,-208,o),
 (227,-208,cs),
 (182,-208,o),
-(151,-236,o),
-(135,-288,c)
+(153,-238,o),
+(137,-290,c)
 );
 }
 );

@@ -2,6 +2,20 @@
 glyphname = "ba-bali.below_ya-bali.post2.short";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (1191,-601);
+},
+{
+name = bottom;
+pos = (1255,-829);
+},
+{
+name = top;
+pos = (660,617);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -10,6 +24,7 @@ pos = (0,-604);
 ref = "ba-bali";
 },
 {
+alignment = -1;
 pos = (714,-3);
 ref = "ya-bali.post2.short";
 }

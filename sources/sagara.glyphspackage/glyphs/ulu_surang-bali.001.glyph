@@ -2,14 +2,22 @@
 glyphname = "ulu_surang-bali.001";
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (581,646);
+}
+);
 layerId = m01;
 shapes = (
 {
 ref = "ulu-bali";
 },
 {
-pos = (590,0);
+alignment = -1;
+pos = (507,86);
 ref = "surang-bali";
+scale = (1,0.8596);
 }
 );
 width = 1171;

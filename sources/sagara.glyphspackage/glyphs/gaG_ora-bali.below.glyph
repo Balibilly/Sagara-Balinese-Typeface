@@ -2,6 +2,20 @@
 glyphname = "gaGora-bali.below";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (1023,0);
+},
+{
+name = bottom;
+pos = (1023,-607);
+},
+{
+name = top;
+pos = (637,617);
+}
+);
 layerId = m01;
 shapes = (
 {

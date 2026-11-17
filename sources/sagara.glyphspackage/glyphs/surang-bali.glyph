@@ -2,6 +2,12 @@
 glyphname = "surang-bali";
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (297,617);
+}
+);
 layerId = m01;
 shapes = (
 {

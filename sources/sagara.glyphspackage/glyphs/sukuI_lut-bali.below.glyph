@@ -2,6 +2,12 @@
 glyphname = "sukuIlut-bali.below";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (118,-432);
+}
+);
 layerId = m01;
 shapes = (
 {

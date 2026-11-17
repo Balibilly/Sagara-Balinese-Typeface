@@ -19,7 +19,7 @@ pos = (285,0);
 ref = period;
 }
 );
-width = 430;
+width = 470;
 }
 );
 metricRight = "=|";

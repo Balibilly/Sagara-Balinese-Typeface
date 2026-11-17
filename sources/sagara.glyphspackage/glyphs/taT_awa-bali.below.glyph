@@ -2,6 +2,20 @@
 glyphname = "taTawa-bali.below";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (775,0);
+},
+{
+name = bottom;
+pos = (750,-418);
+},
+{
+name = top;
+pos = (442,617);
+}
+);
 layerId = m01;
 shapes = (
 {

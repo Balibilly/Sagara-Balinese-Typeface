@@ -22,7 +22,7 @@ shapes = (
 ref = "taLatik-bali.below";
 },
 {
-pos = (733,-45);
+pos = (727,14);
 ref = "sukuIlut-bali.below";
 }
 );

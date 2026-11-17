@@ -16,6 +16,7 @@ pos = (320,0);
 ref = "ya-bali.post2";
 },
 {
+pos = (173,-822);
 ref = "daMurdaAlpaprana-bali.below";
 }
 );

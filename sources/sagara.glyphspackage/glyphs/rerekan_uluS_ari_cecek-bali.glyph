@@ -2,17 +2,25 @@
 glyphname = "rerekan_uluSari_cecek-bali";
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (753,617);
+}
+);
 layerId = m01;
 shapes = (
 {
 ref = "rerekan-bali";
 },
 {
-pos = (500,0);
+alignment = -1;
+pos = (460,1);
 ref = "uluSari-bali";
 },
 {
-pos = (1050,-21);
+alignment = -1;
+pos = (964,-83);
 ref = "cecek-bali";
 }
 );

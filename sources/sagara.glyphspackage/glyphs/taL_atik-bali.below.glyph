@@ -2,6 +2,20 @@
 glyphname = "taLatik-bali.below";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (875,0);
+},
+{
+name = bottom;
+pos = (845,-418);
+},
+{
+name = top;
+pos = (472,617);
+}
+);
 layerId = m01;
 shapes = (
 {

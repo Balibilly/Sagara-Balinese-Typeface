@@ -24,7 +24,7 @@ pos = (0,-604);
 ref = "la-bali";
 },
 {
-pos = (526,0);
+pos = (526,-7);
 ref = "wa-bali.below2";
 }
 );

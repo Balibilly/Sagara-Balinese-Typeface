@@ -2,14 +2,43 @@
 glyphname = "ra_ya_suku-bali.post";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (992,0);
+},
+{
+name = bottom;
+pos = (1140,-327);
+},
+{
+name = top;
+pos = (638,577);
+}
+);
 layerId = m01;
 shapes = (
 {
 alignment = -1;
-ref = "ra_ya-bali.post";
+pos = (204,0);
+ref = belakang;
 },
 {
-pos = (1015,20);
+closed = 1;
+nodes = (
+(1200,-256,l),
+(1232,-256,l),
+(1232,32,l),
+(1200,32,l)
+);
+},
+{
+alignment = -1;
+ref = "ra-ya-depan";
+},
+{
+alignment = -1;
+pos = (1003,-37);
 ref = "suku-bali.alt";
 }
 );

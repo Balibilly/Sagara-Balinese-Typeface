@@ -2,24 +2,40 @@
 glyphname = "ra_ya_sukuIlut-bali.post";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (992,0);
+},
+{
+name = bottom;
+pos = (1148,-315);
+}
+);
 layerId = m01;
 shapes = (
 {
 alignment = -1;
-ref = "ra_ya-bali.post";
-},
-{
-pos = (1040,20);
-ref = "sukuIlut-bali.alt";
+pos = (204,0);
+ref = belakang;
 },
 {
 closed = 1;
 nodes = (
-(1200,-214,l),
-(1232,-214,l),
-(1232,-185,l),
-(1200,-185,l)
+(1200,-237,l),
+(1232,-237,l),
+(1232,32,l),
+(1200,32,l)
 );
+},
+{
+alignment = -1;
+ref = "ra-ya-depan";
+},
+{
+pos = (1055,-25);
+ref = "sukuIlut-bali.alt";
+scale = (0.8661,0.8933);
 }
 );
 width = 1510;

@@ -2,6 +2,16 @@
 glyphname = "jaJera-bali.post";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (882,-513);
+},
+{
+name = top;
+pos = (476,577);
+}
+);
 layerId = m01;
 shapes = (
 {

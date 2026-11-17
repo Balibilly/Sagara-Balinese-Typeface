@@ -2,6 +2,20 @@
 glyphname = "kaMahaprana-bali.below";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (825,0);
+},
+{
+name = bottom;
+pos = (825,-606);
+},
+{
+name = top;
+pos = (371,617);
+}
+);
 layerId = m01;
 shapes = (
 {

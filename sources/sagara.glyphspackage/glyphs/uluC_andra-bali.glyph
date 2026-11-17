@@ -2,6 +2,12 @@
 glyphname = "uluCandra-bali";
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (422,616);
+}
+);
 layerId = m01;
 shapes = (
 {

@@ -2,6 +2,12 @@
 glyphname = "bende-bali";
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (295,630);
+}
+);
 layerId = m01;
 shapes = (
 {

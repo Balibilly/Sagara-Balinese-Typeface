@@ -2,6 +2,20 @@
 glyphname = "daMurdaMahaprana-bali.below";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (725,0);
+},
+{
+name = bottom;
+pos = (575,-604);
+},
+{
+name = top;
+pos = (422,617);
+}
+);
 layerId = m01;
 shapes = (
 {

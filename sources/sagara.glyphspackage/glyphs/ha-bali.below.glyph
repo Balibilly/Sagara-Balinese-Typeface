@@ -2,6 +2,20 @@
 glyphname = "ha-bali.below";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (810,0);
+},
+{
+name = bottom;
+pos = (809,-620);
+},
+{
+name = top;
+pos = (434,617);
+}
+);
 layerId = m01;
 shapes = (
 {

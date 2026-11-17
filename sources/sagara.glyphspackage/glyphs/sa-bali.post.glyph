@@ -2,9 +2,20 @@
 glyphname = "sa-bali.post";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (582,0);
+},
+{
+name = top;
+pos = (248,577);
+}
+);
 layerId = m01;
 shapes = (
 {
+alignment = -1;
 ref = "pa-bali.post";
 }
 );

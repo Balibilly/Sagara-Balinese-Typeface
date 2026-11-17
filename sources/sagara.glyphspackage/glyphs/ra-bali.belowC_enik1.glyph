@@ -2,6 +2,16 @@
 glyphname = "ra-bali.belowCenik1";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (692,-362);
+},
+{
+name = bottom;
+pos = (775,-487);
+}
+);
 layerId = m01;
 shapes = (
 {

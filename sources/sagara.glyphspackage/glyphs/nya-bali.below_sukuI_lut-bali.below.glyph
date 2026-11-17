@@ -22,7 +22,7 @@ shapes = (
 ref = "nya-bali.below";
 },
 {
-pos = (1159,-133);
+pos = (1232,-187);
 ref = "sukuIlut-bali.below";
 }
 );

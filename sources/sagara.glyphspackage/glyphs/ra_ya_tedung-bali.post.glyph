@@ -2,6 +2,20 @@
 glyphname = "ra_ya_tedung-bali.post";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (992,0);
+},
+{
+name = bottom;
+pos = (1162,-350);
+},
+{
+name = top;
+pos = (638,577);
+}
+);
 layerId = m01;
 shapes = (
 {

@@ -2,6 +2,20 @@
 glyphname = "daMadu-bali.below";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (785,0);
+},
+{
+name = bottom;
+pos = (785,-604);
+},
+{
+name = top;
+pos = (402,617);
+}
+);
 layerId = m01;
 shapes = (
 {

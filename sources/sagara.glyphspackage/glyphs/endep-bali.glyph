@@ -2,10 +2,16 @@
 glyphname = "endep-bali";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (346,0);
+}
+);
 layerId = m01;
 shapes = (
 {
-pos = (0,-917);
+pos = (0,-943);
 ref = "tegeh-bali";
 }
 );

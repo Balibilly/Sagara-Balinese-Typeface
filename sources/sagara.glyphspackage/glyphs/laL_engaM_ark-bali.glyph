@@ -2,6 +2,12 @@
 glyphname = "laLengaMark-bali";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (899,0);
+}
+);
 layerId = m01;
 shapes = (
 {

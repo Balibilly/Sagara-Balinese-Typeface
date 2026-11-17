@@ -2,6 +2,20 @@
 glyphname = "ra_ya-bali.post";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (992,0);
+},
+{
+name = bottom;
+pos = (1232,-580);
+},
+{
+name = top;
+pos = (638,577);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -11,8 +25,8 @@ ref = belakang;
 {
 closed = 1;
 nodes = (
-(1200,-200,l),
-(1232,-200,l),
+(1200,-580,l),
+(1232,-580,l),
 (1232,32,l),
 (1200,32,l)
 );
