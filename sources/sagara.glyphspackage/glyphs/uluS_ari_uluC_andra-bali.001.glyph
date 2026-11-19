@@ -14,11 +14,6 @@ shapes = (
 ref = "uluSari-bali";
 },
 {
-closed = 1;
-nodes = (
-);
-},
-{
 alignment = -1;
 pos = (-30,0);
 ref = _ulucandra;

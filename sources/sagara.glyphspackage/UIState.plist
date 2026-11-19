@@ -395,7 +395,6 @@ a/g_a ra
 
 ᭁ",
 "/nya_la-bali.below2/nya_ba-bali.below2",
-"ᭂᭃ",
 "
 /ra-bali.below 
 
@@ -407,14 +406,30 @@ a/g_a ra
 /ra-bali.below3 
 
 /ra-bali.belowCenik1 
+
 /ra-bali.belowCenik2 
+
 /ra-bali.belowCenik3 
+
 /ra-bali.belowCenik4 
 /ra-bali.belowGempelan 
 
 
 ᭃ",
-"/f_f",
-"/e_l"
+"/raRepaMark-bali.below1 
+
+/ra-bali.below2/raRepaMark-bali.below2 
+
+/ra-bali.below3/raRepaMark-bali.below3 
+
+/ra-bali.belowCenik1/raRepaMark-bali.belowCenik1 
+
+/ra-bali.belowCenik2/raRepaMark-bali.belowCenik2 
+
+/ra-bali.belowCenik3/raRepaMark-bali.belowCenik3 
+
+/ra-bali.belowCenik4/raRepaMark-bali.belowCenik4 
+
+/ra-bali.belowGempelan/raRepaMark-bali.belowGempelan"
 );
 }

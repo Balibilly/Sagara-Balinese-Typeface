@@ -1,8 +1,21 @@
 {
-color = 5;
 glyphname = "ra-bali.belowCenik3";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (1068,-27);
+},
+{
+name = bottom;
+pos = (1048,-417);
+},
+{
+name = top;
+pos = (597,577);
+}
+);
 layerId = m01;
 shapes = (
 {

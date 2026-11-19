@@ -1,8 +1,21 @@
 {
-color = 5;
 glyphname = "raRepaMark-bali.below1";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (823,0);
+},
+{
+name = bottom;
+pos = (873,-430);
+},
+{
+name = top;
+pos = (507,577);
+}
+);
 layerId = m01;
 shapes = (
 {
