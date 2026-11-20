@@ -1,6 +1,68 @@
 {
 .appVersion = "3343";
 .formatVersion = 3;
+classes = (
+{
+code = "ulu-bali
+ulu_uluRicem-bali
+ulu_uluCandra-bali
+ulu_cecek-bali
+ulu_surang-bali
+uluSari-bali
+uluSari_uluRicem-bali
+uluSari_uluCandra-bali
+uluSari_cecek-bali
+uluSari_surang-bali
+uluRicem-bali
+uluCandra-bali
+pepet-bali
+pepet_cecek-bali
+pepet_surang-bali
+cecek-bali
+surang-bali
+rerekan-bali
+rerekan_cecek-bali
+rerekan_surang-bali
+rerekan_ulu_cecek-bali
+rerekan_ulu_surang-bali
+rerekan_uluSari_cecek-bali
+rerekan_uluSari_surang-bali
+rerekan_pepet_cecek-bali
+rerekan_pepet_surang-bali";
+name = UluningAksara;
+},
+{
+code = "ha-bali.below
+na-bali.below
+naRambat-bali.below
+ca-bali.below
+caLaca-bali.below
+ra-bali.below
+ka-bali.below
+kaMahaprana-bali.below
+da-bali.below
+daMadu-bali.below
+daMurdaAlpaprana-bali.below
+daMurdaMahaprana-bali.below
+ta-bali.below
+taMurdaMahaprana-bali.below
+taLatik-bali.below
+taTawa-bali.below
+saSaga-bali.below
+wa-bali.below
+wa-bali.below2
+la-bali.below
+ma-bali.below
+ga-bali.below
+gaGora-bali.below
+ba-bali.below
+baKembang-bali.below
+nga-bali.below
+ja-bali.below
+nya-bali.below";
+name = Gantungan;
+}
+);
 date = "2026-09-14 06:34:53 +0000";
 familyName = "New Font";
 featurePrefixes = (

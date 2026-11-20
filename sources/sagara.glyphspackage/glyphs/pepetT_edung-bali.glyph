@@ -1,8 +1,17 @@
 {
-color = 5;
 glyphname = "pepetTedung-bali";
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (486,617);
+},
+{
+name = bottom;
+pos = (964,0);
+}
+);
 layerId = m01;
 shapes = (
 {
