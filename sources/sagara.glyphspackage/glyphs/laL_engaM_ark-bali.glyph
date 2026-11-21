@@ -17,7 +17,7 @@ ref = "pepet-bali";
 ref = "la-bali.below";
 }
 );
-width = 300;
+width = 999;
 }
 );
 unicode = 6972;

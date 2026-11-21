@@ -16,7 +16,8 @@ pos = (1093,0);
 ref = "ya-bali.post2";
 },
 {
-pos = (544,-822);
+alignment = -1;
+pos = (6,1);
 ref = "nya-bali.below";
 }
 );

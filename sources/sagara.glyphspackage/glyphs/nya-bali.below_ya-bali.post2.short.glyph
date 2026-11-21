@@ -24,7 +24,8 @@ pos = (1086,0);
 ref = "ya-bali.post2.short";
 },
 {
-pos = (431,-891);
+alignment = -1;
+pos = (0,1);
 ref = "nya-bali.below";
 }
 );

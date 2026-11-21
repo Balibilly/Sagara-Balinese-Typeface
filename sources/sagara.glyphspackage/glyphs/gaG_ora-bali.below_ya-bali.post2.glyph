@@ -16,7 +16,8 @@ pos = (546,0);
 ref = "ya-bali.post2";
 },
 {
-pos = (173,-822);
+alignment = -1;
+pos = (0,3);
 ref = "gaGora-bali.below";
 }
 );

@@ -16,7 +16,8 @@ pos = (319,0);
 ref = "ya-bali.post2";
 },
 {
-pos = (184,-822);
+alignment = -1;
+pos = (11,-1);
 ref = "daMadu-bali.below";
 }
 );
