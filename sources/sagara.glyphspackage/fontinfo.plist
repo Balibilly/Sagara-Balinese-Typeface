@@ -165,6 +165,119 @@ name = TundunAksara;
 {
 code = "suku-bali.alt";
 name = Tundun2;
+},
+{
+code = "ra-bali
+ekara-bali
+pa-bali
+paKapal-bali
+ma-bali
+ja-bali
+wa-bali
+taTawa-bali
+raRepa-bali
+saSapa-bali
+daMurdaMahaprana-bali
+";
+name = Aksara1;
+},
+{
+code = "na-bali
+ca-bali
+sa-bali
+da-bali
+daMadu-bali
+daMurdaAlpaprana-bali
+baKembang-bali
+ukara-bali";
+name = Aksara2;
+},
+{
+code = "ha-bali
+la-bali
+ta-bali
+ga-bali
+saSaga-bali
+ka-bali
+gaGora-bali
+ya-bali
+naRambat-bali
+caLaca-bali";
+name = Aksara3;
+},
+{
+code = "kaMahaprana-bali
+jaJera-bali
+aikara-bali
+jaJera-bali.ccmp0";
+name = Aksara4;
+},
+{
+code = "taMurdaMahaprana-bali
+taLatik-bali
+nga-bali
+ikara-bali
+laLenga-bali
+okara-bali
+";
+name = Aksara5;
+},
+{
+code = "ukaraTedung-bali
+laLengaTedung-bali";
+name = Aksara6;
+},
+{
+code = "ba-bali
+ca_tedung-bali
+ra_tedung-bali
+taTawa_tedung-bali
+wa_tedung-bali
+pa_tedung-bali
+ma_tedung-bali
+sa_tedung-bali
+saSapa_tedung-bali
+akara-bali
+raRepaTedung-bali";
+name = Aksara7;
+},
+{
+code = "ha_tedung-bali
+na_tedung-bali
+caLaca_tedung-bali
+da_tedung-bali
+daMadu_tedung-bali
+";
+name = Aksara8;
+},
+{
+code = "naRambat_tedung-bali
+la_tedung-bali
+ta_tedung-bali
+gaGora_tedung-bali
+ka_tedung-bali
+ga_tedung-bali
+saSaga_tedung-bali
+ya_tedung-bali
+baKembang_tedung-bali
+akaraTedung-bali
+";
+name = Aksara9;
+},
+{
+code = "taMurdaMahaprana_tedung-bali
+ba_tedung-bali
+nga_tedung-bali
+taLatik_tedung-bali
+ikaraTedung-bali
+okaraTedung-bali
+jaJera_tedung-bali
+";
+name = Aksara10;
+},
+{
+code = "";
+name = Aksara11;
 }
 );
 date = "2026-09-14 06:34:53 +0000";
