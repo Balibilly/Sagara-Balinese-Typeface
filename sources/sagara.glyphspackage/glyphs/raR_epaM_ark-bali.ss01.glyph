@@ -1,0 +1,34 @@
+{
+glyphname = "raRepaMark-bali.ss01";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (1059,0);
+},
+{
+name = bottom;
+pos = (1038,-267);
+},
+{
+name = top;
+pos = (441,617);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (239,-521);
+ref = cecek_tengah;
+scale = (0.8825,0.9139);
+},
+{
+ref = "ra-bali.below.ss01";
+}
+);
+width = 932;
+}
+);
+}

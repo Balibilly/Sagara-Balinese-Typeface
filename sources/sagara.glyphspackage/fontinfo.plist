@@ -276,8 +276,128 @@ jaJera_tedung-bali
 name = Aksara10;
 },
 {
-code = "";
+code = "nya-bali
+nya_suku-bali
+nya_sukuIlut-bali
+nya_la-bali.below2
+nya_ba-bali.below2
+nya_ha-bali.below
+nya_na-bali.below
+nya_naRambat-bali.below
+nya_ca-bali.below
+nya_caLaca-bali.below
+nya_ra-bali.below
+nya_ka-bali.below
+nya_kaMahaprana-bali.below
+nya_da-bali.below
+nya_daMadu-bali.below
+nya_daMurdaAlpaprana-bali.below
+nya_daMurdaMahaprana-bali.below
+nya_ta-bali.below
+nya_taMurdaMahaprana-bali.below
+nya_taLatik-bali.below
+nya_taTawa-bali.below
+nya_saSaga-bali.below
+nya_wa-bali.below
+nya_la-bali.below
+nya_ma-bali.below
+nya_ga-bali.below
+nya_gaGora-bali.below
+nya_ba-bali.below
+nya_baKembang-bali.below
+nya_nga-bali.below
+nya_ja-bali.below
+nya_nya-bali.below";
 name = Aksara11;
+},
+{
+code = "da-bali.below
+ma-bali.below
+ja-bali.below
+";
+name = Gantungan1;
+},
+{
+code = "ha-bali.below
+na-bali.below
+ca-bali.below
+caLaca-bali.below
+ka-bali.below
+ta-bali.below
+la-bali.below
+ga-bali.below
+taTawa-bali.below
+saSaga-bali.below
+wa-bali.below
+";
+name = Gantungan2;
+},
+{
+code = "daMurdaAlpaprana-bali.below
+daMadu-bali.below
+daMurdaMahaprana-bali.below
+";
+name = Gantungan3;
+},
+{
+code = "taMurdaMahaprana-bali.below
+taLatik-bali.below
+baKembang-bali.below
+";
+name = Gantungan4;
+},
+{
+code = "ba-bali.below
+nga-bali.below
+la-bali.below_wa-bali.below2
+gaGora-bali.below
+naRambat-bali.below
+";
+name = Gantungan5;
+},
+{
+code = "kaMahaprana-bali.below
+";
+name = Gantungan6;
+},
+{
+code = "nya-bali.below
+";
+name = Gantungan7;
+},
+{
+code = "ra-bali.below
+ra-bali.below2
+raRepaMark-bali
+ra_ya-bali.post
+ra_ya_tedung-bali.post
+jaJera-bali.post
+raRepaTedungMark-bali
+na-bali.below
+taTawa-bali.below
+wa-bali.below
+wa-bali.below2
+";
+name = GantunganSukuCenik;
+},
+{
+code = "akara-bali 
+ikaraTedung-bali 
+ha-bali 
+naRambat-bali 
+caLaca-bali ka-bali 
+kaMahaprana-bali 
+ta-bali 
+taMurdaMahaprana-bali 
+taLatik-bali  
+saSaga-bali 
+la-bali 
+ga-bali 
+gaGora-bali 
+ba-bali 
+ya-bali
+";
+name = AksaraJimbar;
 }
 );
 date = "2026-09-14 06:34:53 +0000";
@@ -300,7 +420,6 @@ code = "feature ss01;
 tag = aalt;
 },
 {
-automatic = 1;
 code = "lookup ccmp_bali_1 {
 	lookupflag 0;
 	sub rerekan-bali pepet-bali cecek-bali by rerekan_pepet_cecek-bali;
@@ -343,9 +462,14 @@ code = "lookup ccmp_bali_1 {
 	sub ulu-bali.001 uluRicem-bali.001 by ulu_uluRicem-bali.001;
 } ccmp_bali_1;
 
+lookup ccmp_bali_2 {
+	sub laLengaMark-bali by la-bali.below pepet-bali;
+	sub laLengaTedungMark-bali by la-bali.below pepet-bali tedung-bali;
+} ccmp_bali_2;
+
 script bali;
 lookup ccmp_bali_1;
-";
+lookup ccmp_bali_2;";
 tag = ccmp;
 },
 {
@@ -384,6 +508,87 @@ value = "";
 }
 );
 tag = ss01;
+},
+{
+code = "";
+tag = calt;
+},
+{
+code = "lookup blwf_bali_01 {
+	sub adegadeg-bali ha-bali by ha-bali.below;
+	sub adegadeg-bali na-bali by na-bali.below;
+	sub adegadeg-bali naRambat-bali by naRambat-bali.below;
+	sub adegadeg-bali ca-bali by ca-bali.below;
+	sub adegadeg-bali caLaca-bali by caLaca-bali.below;
+	sub adegadeg-bali ra-bali by ra-bali.below;
+	sub adegadeg-bali ka-bali by ka-bali.below;
+	sub adegadeg-bali kaMahaprana-bali by kaMahaprana-bali.below;
+	sub adegadeg-bali da-bali by da-bali.below;
+	sub adegadeg-bali daMadu-bali by daMadu-bali.below;
+	sub adegadeg-bali daMurdaAlpaprana-bali by daMurdaAlpaprana-bali.below;
+	sub adegadeg-bali daMurdaMahaprana-bali by daMurdaMahaprana-bali.below;
+	sub adegadeg-bali ta-bali by ta-bali.below;
+	sub adegadeg-bali taMurdaMahaprana-bali by taMurdaMahaprana-bali.below;
+	sub adegadeg-bali taLatik-bali by taLatik-bali.below;
+	sub adegadeg-bali taTawa-bali by taTawa-bali.below;
+	sub adegadeg-bali saSaga-bali by saSaga-bali.below;
+	sub adegadeg-bali wa-bali by wa-bali.below;
+	sub adegadeg-bali la-bali by la-bali.below;
+	sub adegadeg-bali ma-bali by ma-bali.below;
+	sub adegadeg-bali ga-bali by ga-bali.below;
+	sub adegadeg-bali gaGora-bali by gaGora-bali.below;
+	sub adegadeg-bali ba-bali by ba-bali.below;
+	sub adegadeg-bali baKembang-bali by baKembang-bali.below;
+	sub adegadeg-bali nga-bali by nga-bali.below;
+	sub adegadeg-bali ja-bali by ja-bali.below;
+	sub adegadeg-bali nya-bali by nya-bali.below;
+} blwf_bali_01;
+
+
+lookup blwf_bali_02 {
+	sub [@Gantungan] wa-bali.below' by wa-bali.below2;
+	sub [@Gantungan] suku-bali' by suku-bali.below;
+} blwf_bali_02;
+
+script bali;
+lookup blwf_bali_01;
+lookup blwf_bali_02;";
+tag = blwf;
+},
+{
+code = "script bali;
+	sub adegadeg-bali ya-bali by ya-bali.post;
+	sub adegadeg-bali sa-bali by sa-bali.post;
+	sub adegadeg-bali saSapa-bali by saSapa-bali.post;
+	sub adegadeg-bali pa-bali by pa-bali.post;
+	sub adegadeg-bali paKapal-bali by paKapal-bali.post;
+	sub adegadeg-bali jaJera-bali by jaJera-bali.post;";
+tag = pstf;
+},
+{
+code = "lookup sukuCenik {
+	sub [@Gantungan] suku-bali' by suku-bali.below;
+	sub [@Gantungan] sukuIlut-bali' by sukuIlut-bali.below;
+} sukuCenik;
+
+lookup sukuCenikAlt {
+	sub [@GantunganSukuCenik] suku-bali.below' by suku-bali.alt;
+	sub [@GantunganSukuCenik] sukuIlut-bali.below' by sukuIlut-bali.alt;
+} sukuCenikAlt;
+
+lookup sukuKembungCenik {
+	sub [@Gantungan] wa-bali.below' by wa-bali.below2;
+} sukuKembungCenik;
+
+lookup GuwungGede {
+	sub [@AksaraJimbar] ra-bali.below' by ra-bali.below.ss01;
+	sub [@AksaraJimbar] raRepaMark-bali' by raRepaMark-bali.ss01;
+} GuwungGede;
+
+lookup GuwungRingGantungan {
+	sub 
+";
+tag = blws;
 }
 );
 fontMaster = (
@@ -428,7 +633,7 @@ pos = (660,500);
 pos = (1200,-833);
 },
 {
-pos = (1185,-958);
+pos = (1185,-882);
 },
 {
 pos = (232,-27);

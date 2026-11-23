@@ -22,7 +22,8 @@ shapes = (
 ref = "ma-bali.below";
 },
 {
-pos = (411,-172);
+alignment = -1;
+pos = (411,-189);
 ref = "sukuIlut-bali.below";
 }
 );

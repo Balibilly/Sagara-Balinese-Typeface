@@ -4,7 +4,7 @@ layers = (
 {
 anchors = (
 {
-name = _buttom;
+name = _bottom;
 pos = (365,0);
 },
 {
