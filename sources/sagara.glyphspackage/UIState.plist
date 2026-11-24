@@ -261,7 +261,7 @@ a/g_a ra
 
 /S.ss01 ara ",
 "/g_a       ",
-"GRUP 1
+"GRUP 1 ra-bali.below01
 ᬭ
 ᬏ
 ᬧ
@@ -275,7 +275,7 @@ a/g_a ra
 ᬠ
 
 
-GRUP 2
+GRUP 2 ra-bali.below
 ᬦ
 ᬘ
 ᬲ
@@ -286,7 +286,7 @@ GRUP 2
 ᬉ
 
 
-GRUP 3
+GRUP 3 ra-bali.below03
 ᬳ
 ᬮ
 ᬢ
@@ -299,7 +299,7 @@ GRUP 3
 ᬙ
 
 
-GRUP 4
+GRUP 4 ra-bali.below03
 ᬔ
 ᬛ
 ᬐ
@@ -307,7 +307,7 @@ GRUP 4
 
 
 
-GRUP 5
+GRUP 5 ra-bali.below03
 ᬞ
 ᬝ
 ᬗ
@@ -326,9 +326,11 @@ GRUP 6
 
 
 
-GRUP 7
+GRUP 7 ra-bali.below04
 ᬩ
-/ca_tedung-bali 
+
+
+/ca_tedung-bali  ra-bali.below
 /ra_tedung-bali 
 /taTawa_tedung-bali 
 /wa_tedung-bali 
@@ -336,14 +338,14 @@ GRUP 7
 /ma_tedung-bali 
 /sa_tedung-bali 
 /saSapa_tedung-bali 
-ᬅ
+ᬅra-bali.belowss01
 ᬌ
 
 
 
 
 
-GRUP 8
+GRUP 8 ra-bali.below04
 /ha_tedung-bali 
 /na_tedung-bali 
 /caLaca_tedung-bali 
@@ -355,7 +357,7 @@ GRUP 8
 
 
 
-GRUP 9
+GRUP 9  ra-bali.below04
 /naRambat_tedung-bali 
 /la_tedung-bali 
 /ta_tedung-bali 
@@ -370,7 +372,7 @@ GRUP 9
 
 
 
-GRUP 10
+GRUP 10 ra-bali.below05
 /taMurdaMahaprana_tedung-bali 
 /ba_tedung-bali 
 /nga_tedung-bali 
@@ -387,7 +389,7 @@ GRUP 10
 
 
 
-GRUP 11
+GRUP 11 ra-bali.below05
 ᬜ
 /nya_suku-bali 
 /nya_sukuIlut-bali 
@@ -428,6 +430,15 @@ GRUP 11
 GRUP
 
 
+
+
+/ra-bali.below01/raRepaMark-bali.below01/ra-bali.below ᬺ/ra-bali.below03/raRepaMark-bali.below03/ra-bali.below04/raRepaMark-bali.below04/ra-bali.below05/raRepaMark-bali.below05 
+
+
+
+
+
+/raRepaMark-bali.below1/raRepaMark-bali.below2/raRepaMark-bali.below3/raRepaMark-bali.belowGempelan/raRepaMark-bali.ss01 
 
 
 
@@ -595,7 +606,7 @@ Gantungan8
 
 /da-bali.below_ya-bali.post2 
 /da-bali.below_ya-bali.post2.short 
-/raRepaMark-bali.belowCenik1 
+
 
 
 
@@ -702,8 +713,8 @@ Gantungan8
 
 
 
-/raRepaMark-bali.belowCenik3 
-/raRepaMark-bali.belowCenik4 
+
+
 /raRepaMark-bali.belowGempelan 
 
 /ra-bali.below 
@@ -715,37 +726,53 @@ Gantungan8
 
 /ra-bali.below3 
 
-/raRepaMark-bali.belowCenik2 
-/ra-bali.belowCenik1 
-/ra-bali.belowCenik2 
 
-/ra-bali.belowCenik3 
+
+
+
+
 
 /ra-bali.belowCenik4 
 
 /ra-bali.belowGempelan 
 ",
-"/da-bali.below/ta-bali.below 
-/ma-bali.below 
-/ja-bali.below 
-
-
+"
 /ra-bali.below1 
 /ra-bali.below2 
 /ra-bali.below3    
 
 /ra-bali.below 
 /ra-bali.below.ss01 
-/ra-bali.belowCenik1 
-/ra-bali.belowCenik2 
-/ra-bali.belowCenik3/ra-bali.belowCenik4/ra-bali.belowGempelan 
+
+
+/ra-bali.belowCenik4/ra-bali.belowGempelan 
 ",
-"",
-"",
 "ᬉᬊᬑᬒ/wa-bali.below2 
 
 
 /ya-bali.post/sa-bali.post/saSapa-bali.post/pa-bali.post/paKapal-bali.post/jaJera-bali.post  /ra-bali.below/ra-bali.below2",
-"ᬭᬸ"
+"ᬭᬸ",
+"/nya_la-bali.below2/nya_ba-bali.below2/nya_ha-bali.below/nya_na-bali.below/nya_naRambat-bali.below/nya_ca-bali.below/nya_caLaca-bali.below/nya_ra-bali.below/nya_ka-bali.below/nya_kaMahaprana-bali.below/nya_da-bali.below/nya_daMadu-bali.below/nya_daMurdaAlpaprana-bali.below/nya_daMurdaMahaprana-bali.below/nya_ta-bali.below/nya_taMurdaMahaprana-bali.below/nya_taLatik-bali.below/nya_taTawa-bali.below/nya_saSaga-bali.below/nya_wa-bali.below/nya_la-bali.below/nya_ma-bali.below/nya_ga-bali.below/nya_gaGora-bali.below/nya_ba-bali.below/nya_baKembang-bali.below/nya_nga-bali.below/nya_ja-bali.below/nya_nya-bali.below",
+"/kaMahaprana-bali_guwung-ra/jaJera-bali_guwung-ra 
+
+/saSapa-bali.gempelan_guwung-bali/saSapa-bali.gempelan_guwung-raRepaMark-bali . /pa-bali.post_guwung-ra/pa-bali.post_guwung-raRepaMark-bali/paKapal-bali.post_guwung-ra/paKapal-bali.post_guwung-raRepaMark-bali/baKembang_guwung-bali/baKembang_guwungRepaMark-bali 
+
+/ha-bali_guwung-ra/ha_guwung-raRepaMark-bali/na-bali_guwung-ra/na_guwung-raRepaMark-bali/naRambat-bali_guwung-ra 
+
+/naRambat_guwung-raRepaMark-bali/ca-bali_guwung-ra/ca_guwung-raRepaMark-bali/caLaca_guwung-bali/caLaca_guwungRepaMark-bali/ka-bali_guwung-ra/ka_guwung-raRepaMark-bali/da-bali_guwung-ra/da_guwung-raRepaMark-bali/daMadu-bali_guwung-ra/daMadu_guwung-raRepaMark-bali 
+
+/daMurdaAlpaprana-bali_guwung-ra/daMurdaAlpaprana_guwung-raRepaMark-bali/daMurdaMahaprana-bali_guwung-ra/daMurdaMahaprana_guwung-raRepaMark-bali/ta-bali_guwung-ra/ta_guwung-raRepaMark-bali/taMurdaMahaprana-bali_guwung-ra/taMurdaMahaprana_guwung-raRepaMark-bali/taLatik-bali_guwung-ra/taLatik_guwung-raRepaMark-bali/taTawa-bali_guwung-ra/taTawa_guwung-raRepaMark-bali 
+
+/sa-bali_guwung-ra/sa_guwung-raRepaMark-bali/saSapa-bali_guwung-ra/saSapa_guwung-raRepaMark-bali/wa-bali_guwung-ra/wa_guwung-raRepaMark-bali/la-bali_guwung-ra/la_guwung-raRepaMark-bali/ma-bali_guwung-ra/ma_guwung-raRepaMark-bali/ga-bali_guwung-ra/ga_guwung-raRepaMark-bali 
+
+/gaGora_guwung-bali/gaGora_guwung-raRepaMark/ba-bali_guwung-ra/ba_guwung-raRepaMark-bali/nga-bali_guwung-ra/nga_guwung-raRepaMark-bali/pa-bali_guwung-ra/pa_guwung-raRepaMark-bali/ja-bali_guwung-ra/ja_guwung-raRepaMark-bali/ya-bali_guwung-ra 
+
+/ya_guwung-raRepaMark-bali ᬜ/nya-bali_guwung-ra/nya_guwung-raRepaMark-bali 
+",
+"ᬆ
+ᬈ
+ᬊᬌᬎᬒ/ha_tedung-bali/na_tedung-bali/naRambat_tedung-bali/ca_tedung-bali/caLaca_tedung-bali/ra_tedung-bali/ka_tedung-bali/da_tedung-bali/daMadu_tedung-bali/ta_tedung-bali/taMurdaMahaprana_tedung-bali/taLatik_tedung-bali/taTawa_tedung-bali/sa_tedung-bali/saSapa_tedung-bali/saSaga_tedung-bali/wa_tedung-bali/la_tedung-bali/ma_tedung-bali/ga_tedung-bali/gaGora_tedung-bali/ba_tedung-bali/baKembang_tedung-bali/nga_tedung-bali/pa_tedung-bali/jaJera_tedung-bali/ja_tedung-bali/ya_tedung-bali/nya_tedung-bali/nya_suku-bali/nya_sukuIlut-bali",
+"",
+""
 );
 }

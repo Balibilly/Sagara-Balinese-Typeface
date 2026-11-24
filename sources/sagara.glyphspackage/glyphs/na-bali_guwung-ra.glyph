@@ -1,0 +1,22 @@
+{
+glyphname = "na-bali_guwung-ra";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (69,0);
+ref = "na-bali";
+},
+{
+pos = (68,0);
+ref = "ra-bali.below";
+}
+);
+width = 1018;
+}
+);
+metricLeft = "na-bali";
+metricRight = "na-bali";
+}

@@ -1,0 +1,22 @@
+{
+glyphname = "naRambat_guwung-raRepaMark-bali";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (30,0);
+ref = "naRambat-bali";
+},
+{
+pos = (-3,0);
+ref = "raRepaMark-bali.below03";
+}
+);
+width = 1159;
+}
+);
+metricLeft = "naRambat-bali";
+metricRight = "naRambat-bali";
+}

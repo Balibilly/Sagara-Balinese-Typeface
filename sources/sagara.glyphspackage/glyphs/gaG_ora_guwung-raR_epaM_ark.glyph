@@ -1,0 +1,22 @@
+{
+glyphname = "gaGora_guwung-raRepaMark";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (36,0);
+ref = "gaGora-bali";
+},
+{
+pos = (-3,0);
+ref = "raRepaMark-bali.below03";
+}
+);
+width = 1159;
+}
+);
+metricLeft = "gaGora-bali";
+metricRight = "gaGora-bali";
+}

@@ -1,0 +1,20 @@
+{
+glyphname = "pa-bali.post_guwung-raRepaMark-bali";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "pa-bali.post";
+},
+{
+alignment = -1;
+pos = (23,27);
+ref = "raRepaMark-bali.belowGempelan";
+}
+);
+width = 632;
+}
+);
+}

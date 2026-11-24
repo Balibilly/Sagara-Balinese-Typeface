@@ -1,0 +1,29 @@
+{
+glyphname = "paKapal-bali.post_guwung-ra";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "paKapal-bali.post";
+},
+{
+alignment = -1;
+pos = (-180,-3);
+ref = "ra-bali.below01";
+},
+{
+closed = 1;
+nodes = (
+(616,-60,l),
+(644,-60,l),
+(644,264,l),
+(616,264,l)
+);
+}
+);
+width = 886;
+}
+);
+}

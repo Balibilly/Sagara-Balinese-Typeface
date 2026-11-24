@@ -1,0 +1,52 @@
+{
+glyphname = "ja_guwung-raRepaMark-bali";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (768,-487);
+},
+{
+name = top;
+pos = (450,577);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "ja-bali";
+},
+{
+closed = 1;
+nodes = (
+(785,-65,ls),
+(785,-364,o),
+(796,-636,o),
+(520,-636,cs),
+(289,-636,o),
+(227,-463,o),
+(282,-200,c),
+(253,-194,l),
+(177,-590,o),
+(297,-726,o),
+(520,-726,cs),
+(835,-726,o),
+(817,-424,o),
+(817,-99,cs),
+(817,10,l),
+(785,10,l)
+);
+},
+{
+pos = (132,-722);
+ref = cecek_tengah;
+}
+);
+width = 917;
+}
+);
+metricLeft = "ja-bali";
+metricRight = "ja-bali";
+}

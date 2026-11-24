@@ -1,0 +1,22 @@
+{
+glyphname = "caLaca_guwungRepaMark-bali";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (106,0);
+ref = "caLaca-bali";
+},
+{
+pos = (-3,0);
+ref = "raRepaMark-bali.below03";
+}
+);
+width = 1160;
+}
+);
+metricLeft = "caLaca-bali";
+metricRight = "caLaca-bali";
+}

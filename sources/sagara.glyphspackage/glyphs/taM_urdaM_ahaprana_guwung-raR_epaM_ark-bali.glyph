@@ -1,0 +1,21 @@
+{
+glyphname = "taMurdaMahaprana_guwung-raRepaMark-bali";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "taMurdaMahaprana-bali";
+},
+{
+pos = (14,0);
+ref = "raRepaMark-bali.below03";
+}
+);
+width = 1176;
+}
+);
+metricLeft = "taMurdaMahaprana-bali";
+metricRight = "taMurdaMahaprana-bali";
+}

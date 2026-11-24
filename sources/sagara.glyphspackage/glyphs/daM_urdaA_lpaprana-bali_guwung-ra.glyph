@@ -1,0 +1,22 @@
+{
+glyphname = "daMurdaAlpaprana-bali_guwung-ra";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (36,0);
+ref = "daMurdaAlpaprana-bali";
+},
+{
+pos = (62,0);
+ref = "ra-bali.below";
+}
+);
+width = 994;
+}
+);
+metricLeft = "daMurdaAlpaprana-bali";
+metricRight = "daMurdaAlpaprana-bali";
+}

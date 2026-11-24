@@ -1,0 +1,21 @@
+{
+glyphname = "taLatik_guwung-raRepaMark-bali";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "taLatik-bali";
+},
+{
+pos = (4,0);
+ref = "raRepaMark-bali.below03";
+}
+);
+width = 1166;
+}
+);
+metricLeft = "taLatik-bali";
+metricRight = "taLatik-bali";
+}

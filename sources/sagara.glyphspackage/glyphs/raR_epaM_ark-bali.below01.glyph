@@ -1,11 +1,11 @@
 {
-glyphname = "raRepaMark-bali.belowCenik1";
+glyphname = "raRepaMark-bali.below01";
 layers = (
 {
 anchors = (
 {
 name = _bottom;
-pos = (824,-27);
+pos = (824,0);
 },
 {
 name = bottom;
@@ -20,10 +20,10 @@ layerId = m01;
 shapes = (
 {
 alignment = -1;
-ref = "ra-bali.belowCenik1";
+ref = "ra-bali.below01";
 },
 {
-pos = (49,-722);
+pos = (139,-722);
 ref = cecek_tengah;
 }
 );

@@ -277,37 +277,7 @@ name = Aksara10;
 },
 {
 code = "nya-bali
-nya_suku-bali
-nya_sukuIlut-bali
-nya_la-bali.below2
-nya_ba-bali.below2
-nya_ha-bali.below
-nya_na-bali.below
-nya_naRambat-bali.below
-nya_ca-bali.below
-nya_caLaca-bali.below
-nya_ra-bali.below
-nya_ka-bali.below
-nya_kaMahaprana-bali.below
-nya_da-bali.below
-nya_daMadu-bali.below
-nya_daMurdaAlpaprana-bali.below
-nya_daMurdaMahaprana-bali.below
-nya_ta-bali.below
-nya_taMurdaMahaprana-bali.below
-nya_taLatik-bali.below
-nya_taTawa-bali.below
-nya_saSaga-bali.below
-nya_wa-bali.below
-nya_la-bali.below
-nya_ma-bali.below
-nya_ga-bali.below
-nya_gaGora-bali.below
-nya_ba-bali.below
-nya_baKembang-bali.below
-nya_nga-bali.below
-nya_ja-bali.below
-nya_nya-bali.below";
+";
 name = Aksara11;
 },
 {
@@ -398,6 +368,41 @@ ba-bali
 ya-bali
 ";
 name = AksaraJimbar;
+},
+{
+code = "nya_suku-bali
+nya_sukuIlut-bali
+nya_la-bali.below2
+nya_ba-bali.below2
+nya_ha-bali.below
+nya_na-bali.below
+nya_naRambat-bali.below
+nya_ca-bali.below
+nya_caLaca-bali.below
+nya_ra-bali.below
+nya_ka-bali.below
+nya_kaMahaprana-bali.below
+nya_da-bali.below
+nya_daMadu-bali.below
+nya_daMurdaAlpaprana-bali.below
+nya_daMurdaMahaprana-bali.below
+nya_ta-bali.below
+nya_taMurdaMahaprana-bali.below
+nya_taLatik-bali.below
+nya_taTawa-bali.below
+nya_saSaga-bali.below
+nya_wa-bali.below
+nya_la-bali.below
+nya_ma-bali.below
+nya_ga-bali.below
+nya_gaGora-bali.below
+nya_ba-bali.below
+nya_baKembang-bali.below
+nya_nga-bali.below
+nya_ja-bali.below
+nya_nya-bali.below
+";
+name = GantunganNya;
 }
 );
 date = "2026-09-14 06:34:53 +0000";
@@ -416,6 +421,9 @@ features = (
 {
 automatic = 1;
 code = "feature ss01;
+feature blwf;
+feature pstf;
+feature blws;
 ";
 tag = aalt;
 },
@@ -500,6 +508,8 @@ automatic = 1;
 code = "sub A by A.ss01;
 sub S by S.ss01;
 sub g by g.ss01;
+sub ra-bali.below by ra-bali.below.ss01;
+sub raRepaMark-bali by raRepaMark-bali.ss01;
 ";
 labels = (
 {
@@ -510,17 +520,14 @@ value = "";
 tag = ss01;
 },
 {
-code = "";
-tag = calt;
-},
-{
-code = "lookup blwf_bali_01 {
+code = "lookup blwf_sub {
 	sub adegadeg-bali ha-bali by ha-bali.below;
 	sub adegadeg-bali na-bali by na-bali.below;
 	sub adegadeg-bali naRambat-bali by naRambat-bali.below;
 	sub adegadeg-bali ca-bali by ca-bali.below;
 	sub adegadeg-bali caLaca-bali by caLaca-bali.below;
 	sub adegadeg-bali ra-bali by ra-bali.below;
+	sub adegadeg-bali raRepa-bali by raRepaMark-bali;
 	sub adegadeg-bali ka-bali by ka-bali.below;
 	sub adegadeg-bali kaMahaprana-bali by kaMahaprana-bali.below;
 	sub adegadeg-bali da-bali by da-bali.below;
@@ -531,7 +538,9 @@ code = "lookup blwf_bali_01 {
 	sub adegadeg-bali taMurdaMahaprana-bali by taMurdaMahaprana-bali.below;
 	sub adegadeg-bali taLatik-bali by taLatik-bali.below;
 	sub adegadeg-bali taTawa-bali by taTawa-bali.below;
+	sub adegadeg-bali sa-bali by sa-bali.post;
 	sub adegadeg-bali saSaga-bali by saSaga-bali.below;
+	sub adegadeg-bali saSapa-bali by saSapa-bali.post;
 	sub adegadeg-bali wa-bali by wa-bali.below;
 	sub adegadeg-bali la-bali by la-bali.below;
 	sub adegadeg-bali ma-bali by ma-bali.below;
@@ -540,19 +549,23 @@ code = "lookup blwf_bali_01 {
 	sub adegadeg-bali ba-bali by ba-bali.below;
 	sub adegadeg-bali baKembang-bali by baKembang-bali.below;
 	sub adegadeg-bali nga-bali by nga-bali.below;
+	sub adegadeg-bali pa-bali by pa-bali.post;
+	sub adegadeg-bali paKapal-bali by paKapal-bali.post;
 	sub adegadeg-bali ja-bali by ja-bali.below;
 	sub adegadeg-bali nya-bali by nya-bali.below;
-} blwf_bali_01;
+} blwf_sub;
 
+lookup gempelan_sa {
+sub sa-bali.post by suku-bali pa-bali.post;
+
+} gempelan_sa;
 
 lookup blwf_bali_02 {
 	sub [@Gantungan] wa-bali.below' by wa-bali.below2;
 	sub [@Gantungan] suku-bali' by suku-bali.below;
 } blwf_bali_02;
 
-script bali;
-lookup blwf_bali_01;
-lookup blwf_bali_02;";
+";
 tag = blwf;
 },
 {
@@ -589,6 +602,118 @@ lookup GuwungRingGantungan {
 	sub 
 ";
 tag = blws;
+},
+{
+code = "";
+tag = rlig;
+},
+{
+code = "lookup rlig_sub {
+	sub akara-bali tedung-bali by akaraTedung-bali;
+	sub ikara-bali tedung-bali by ikaraTedung-bali;
+	sub ukara-bali tedung-bali by ukaraTedung-bali;
+	sub raRepa-bali tedung-bali by raRepaTedung-bali;
+	sub laLenga-bali tedung-bali by laLengaTedung-bali;
+	sub okara-bali tedung-bali by okaraTedung-bali;
+	sub ha-bali tedung-bali by ha_tedung-bali;
+	sub na-bali tedung-bali by na_tedung-bali;
+	sub naRambat-bali tedung-bali by naRambat_tedung-bali;
+	sub ca-bali tedung-bali by ca_tedung-bali;
+	sub caLaca-bali tedung-bali by caLaca_tedung-bali;
+	sub ra-bali tedung-bali by ra_tedung-bali;
+	sub ka-bali tedung-bali by ka_tedung-bali;
+	sub da-bali tedung-bali by da_tedung-bali;
+	sub daMadu-bali tedung-bali by daMadu_tedung-bali;
+	sub ta-bali tedung-bali by ta_tedung-bali;
+	sub taMurdaMahaprana-bali tedung-bali by taMurdaMahaprana_tedung-bali;
+	sub taLatik-bali tedung-bali by taLatik_tedung-bali;
+	sub taTawa-bali tedung-bali by taTawa_tedung-bali;
+	sub sa-bali tedung-bali by sa_tedung-bali;
+	sub saSapa-bali tedung-bali by saSapa_tedung-bali;
+	sub saSaga-bali tedung-bali by saSaga_tedung-bali;
+	sub wa-bali tedung-bali by wa_tedung-bali;
+	sub la-bali tedung-bali by la_tedung-bali;
+	sub ma-bali tedung-bali by ma_tedung-bali;
+	sub ga-bali tedung-bali by ga_tedung-bali;
+	sub gaGora-bali tedung-bali by gaGora_tedung-bali;
+	sub ba-bali tedung-bali by ba_tedung-bali;
+	sub baKembang-bali tedung-bali by baKembang_tedung-bali;
+	sub nga-bali tedung-bali by nga_tedung-bali;
+	sub pa-bali tedung-bali by pa_tedung-bali;
+	sub ja-bali tedung-bali by ja_tedung-bali;
+	sub ya-bali tedung-bali by ya_tedung-bali;
+	sub nya-bali tedung-bali by nya_tedung-bali;
+	sub nya-bali suku-bali by nya_suku-bali;
+	sub nya-bali sukuIlut-bali by nya_sukuIlut-bali;
+} rlig_sub;
+
+lookup Guwung_Ligatur {
+sub ha-bali ra-bali.below by ha-bali_guwung-ra;
+    sub na-bali ra-bali.below by na-bali_guwung-ra;
+    sub naRambat-bali ra-bali.below by naRambat-bali_guwung-ra;
+    sub ca-bali ra-bali.below by ca-bali_guwung-ra;
+    sub caLaca-bali ra-bali.below by caLaca_guwung-bali;
+    sub ka-bali ra-bali.below by ka-bali_guwung-ra;
+    sub kaMahaprana-bali ra-bali.below by kaMahaprana-bali_guwung-ra;
+    sub da-bali ra-bali.below by da-bali_guwung-ra;
+    sub daMadu-bali ra-bali.below by daMadu-bali_guwung-ra;
+    sub daMurdaAlpaprana-bali ra-bali.below by daMurdaAlpaprana-bali_guwung-ra;
+    sub daMurdaMahaprana-bali ra-bali.below by daMurdaMahaprana-bali_guwung-ra;
+    sub ta-bali ra-bali.below by ta-bali_guwung-ra;
+    sub taMurdaMahaprana-bali ra-bali.below by taMurdaMahaprana-bali_guwung-ra;
+    sub taLatik-bali ra-bali.below by taLatik-bali_guwung-ra;
+    sub taTawa-bali ra-bali.below by taTawa-bali_guwung-ra;
+    sub sa-bali ra-bali.below by sa-bali_guwung-ra;
+    sub saSapa-bali ra-bali.below by saSapa-bali_guwung-ra;
+    sub wa-bali ra-bali.below by wa-bali_guwung-ra;
+    sub la-bali ra-bali.below by la-bali_guwung-ra;
+    sub ma-bali ra-bali.below by ma-bali_guwung-ra;
+    sub ga-bali ra-bali.below by ga-bali_guwung-ra;
+    sub gaGora-bali ra-bali.below by gaGora_guwung-bali;
+    sub ba-bali ra-bali.below by ba-bali_guwung-ra;
+    sub baKembang-bali ra-bali.below by baKembang_guwung-bali;
+    sub nga-bali ra-bali.below by nga-bali_guwung-ra;
+    sub pa-bali ra-bali.below by pa-bali_guwung-ra;	
+    sub ja-bali ra-bali.below by ja-bali_guwung-ra;
+    sub jaJera-bali ra-bali.below by jaJera-bali_guwung-ra;
+    sub ya-bali ra-bali.below by ya-bali_guwung-ra;
+    sub nya-bali ra-bali.below by nya-bali_guwung-ra;
+} Guwung_Ligatur;
+
+lookup Guwung_raRepa_Liga {
+	sub ha-bali raRepaMark-bali by ha_guwung-raRepaMark-bali;
+    sub na-bali raRepaMark-bali by na_guwung-raRepaMark-bali;
+    sub naRambat-bali raRepaMark-bali by naRambat_guwung-raRepaMark-bali;
+    sub ca-bali raRepaMark-bali by ca_guwung-raRepaMark-bali;
+    sub caLaca-bali raRepaMark-bali by caLaca_guwungRepaMark-bali;
+     sub ka-bali raRepaMark-bali by ka_guwung-raRepaMark-bali;
+    sub kaMahaprana-bali raRepaMark-bali by 
+    sub da-bali raRepaMark-bali by da_guwung-raRepaMark-bali;
+    sub daMadu-bali raRepaMark-bali by daMadu_guwung-raRepaMark-bali;
+    sub daMurdaAlpaprana-bali raRepaMark-bali by daMurdaAlpaprana_guwung-raRepaMark-bali;
+    sub daMurdaMahaprana-bali raRepaMark-bali by daMurdaMahaprana_guwung-raRepaMark-bali;
+    sub ta-bali raRepaMark-bali by ta_guwung-raRepaMark-bali;
+    sub taMurdaMahaprana-bali raRepaMark-bali by taMurdaMahaprana_guwung-raRepaMark-bali;
+    sub taLatik-bali raRepaMark-bali by taLatik_guwung-raRepaMark-bali;
+    sub taTawa-bali raRepaMark-bali by taTawa_guwung-raRepaMark-bali;
+    sub sa-bali raRepaMark-bali by sa_guwung-raRepaMark-bali;
+    sub saSapa-bali raRepaMark-bali by saSapa_guwung-raRepaMark-bali;
+    sub wa-bali raRepaMark-bali by wa_guwung-raRepaMark-bali;
+    sub la-bali raRepaMark-bali by la_guwung-raRepaMark-bali;
+    sub ma-bali raRepaMark-bali by ma_guwung-raRepaMark-bali;
+    sub ga-bali raRepaMark-bali by ga_guwung-raRepaMark-bali;
+    sub gaGora-bali raRepaMark-bali by gaGora_guwung-raRepaMark-bali;
+    sub ba-bali raRepaMark-bali by ba_guwung-raRepaMark-bali;
+    sub baKembang-bali raRepaMark-bali by baKembang_guwung-raRepaMark-bali;
+    sub nga-bali raRepaMark-bali by nga_guwung-raRepaMark-bali;
+    sub pa-bali raRepaMark-bali by pa_guwung-raRepaMark-bali;
+    sub ja-bali raRepaMark-bali by ja_guwung-raRepaMark-bali;
+    sub jaJera-bali raRepaMark-bali by jaJera_guwung-raRepaMark-bali;
+    sub ya-bali raRepaMark-bali by ya_guwung-raRepaMark-bali;
+    sub nya-bali raRepaMark-bali by nya_guwung-raRepaMark-bali;
+} Guwung_raRepa_Liga;
+";
+tag = rlig;
 }
 );
 fontMaster = (
@@ -603,7 +728,7 @@ angle = 90;
 pos = (1340,130);
 },
 {
-pos = (1142,-752);
+pos = (1169,-726);
 },
 {
 angle = 90;
@@ -614,7 +739,7 @@ pos = (152,646);
 },
 {
 angle = 90;
-pos = (724,500);
+pos = (752,443);
 },
 {
 pos = (222,959);
@@ -623,7 +748,7 @@ pos = (222,959);
 pos = (232,-89);
 },
 {
-pos = (1150,-620);
+pos = (1150,-566);
 },
 {
 angle = 90;
@@ -654,6 +779,12 @@ pos = (684,500);
 },
 {
 pos = (146,617);
+},
+{
+pos = (1202,9);
+},
+{
+pos = (1204,70);
 }
 );
 id = m01;

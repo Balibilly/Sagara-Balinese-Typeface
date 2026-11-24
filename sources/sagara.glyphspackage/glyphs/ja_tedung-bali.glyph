@@ -1,0 +1,19 @@
+{
+glyphname = "ja_tedung-bali";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "ja-bali";
+},
+{
+alignment = -1;
+pos = (807,0);
+ref = "tedung-bali";
+}
+);
+width = 1619;
+}
+);
+}

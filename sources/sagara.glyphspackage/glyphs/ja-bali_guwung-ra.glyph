@@ -1,0 +1,48 @@
+{
+glyphname = "ja-bali_guwung-ra";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (768,-488);
+},
+{
+name = top;
+pos = (450,576);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "ja-bali";
+},
+{
+closed = 1;
+nodes = (
+(785,-66,ls),
+(785,-365,o),
+(796,-637,o),
+(520,-637,cs),
+(289,-637,o),
+(227,-464,o),
+(282,-201,c),
+(253,-195,l),
+(177,-591,o),
+(297,-727,o),
+(520,-727,cs),
+(835,-727,o),
+(817,-425,o),
+(817,-100,cs),
+(817,9,l),
+(785,9,l)
+);
+}
+);
+width = 917;
+}
+);
+metricLeft = "ja-bali";
+metricRight = "ja-bali";
+}

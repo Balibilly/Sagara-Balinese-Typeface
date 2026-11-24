@@ -20,7 +20,7 @@ layerId = m01;
 shapes = (
 {
 alignment = -1;
-pos = (99,-521);
+pos = (99,-675);
 ref = cecek_tengah;
 scale = (0.8825,0.9139);
 },

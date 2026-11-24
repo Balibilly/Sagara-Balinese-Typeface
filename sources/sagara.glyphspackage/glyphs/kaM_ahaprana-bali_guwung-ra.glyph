@@ -1,0 +1,18 @@
+{
+glyphname = "kaMahaprana-bali_guwung-ra";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (234,0);
+ref = "kaMahaprana-bali";
+}
+);
+width = 1540;
+}
+);
+metricLeft = "kaMahaprana-bali";
+metricRight = "kaMahaprana-bali";
+}

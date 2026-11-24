@@ -1,0 +1,30 @@
+{
+glyphname = "daMurdaMahaprana-bali_guwung-ra";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "daMurdaMahaprana-bali";
+},
+{
+closed = 1;
+nodes = (
+(720,69,l),
+(752,69,l),
+(752,151,l),
+(720,151,l)
+);
+},
+{
+pos = (-72,0);
+ref = "ra-bali.below01";
+}
+);
+width = 852;
+}
+);
+metricLeft = "daMurdaMahaprana-bali";
+metricRight = "daMurdaMahaprana-bali";
+}

@@ -1,35 +1,35 @@
 {
-glyphname = "raRepaMark-bali.belowCenik3";
+glyphname = "raRepaMark-bali.below05";
 layers = (
 {
 anchors = (
 {
 name = _bottom;
-pos = (1068,-27);
+pos = (1361,0);
 },
 {
 name = bottom;
-pos = (1048,-417);
+pos = (1341,-417);
 },
 {
 name = top;
-pos = (597,577);
+pos = (643,577);
 }
 );
 layerId = m01;
 shapes = (
 {
 alignment = -1;
-ref = "ra-bali.belowCenik3";
-},
-{
-alignment = -1;
-pos = (243,-712);
+pos = (334,-688);
 ref = cecek_tengah;
 scale = (0.8825,0.9139);
+},
+{
+pos = (310,0);
+ref = "ra-bali.below05";
 }
 );
-width = 1168;
+width = 1290;
 }
 );
 }

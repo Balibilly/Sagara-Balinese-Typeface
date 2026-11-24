@@ -1,0 +1,21 @@
+{
+glyphname = "ma_guwung-raRepaMark-bali";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "ma-bali";
+},
+{
+pos = (-79,0);
+ref = "raRepaMark-bali.below01";
+}
+);
+width = 845;
+}
+);
+metricLeft = "ma-bali";
+metricRight = "ma-bali";
+}

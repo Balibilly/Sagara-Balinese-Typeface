@@ -1,0 +1,23 @@
+{
+glyphname = "baKembang_guwung-bali";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (24,0);
+ref = "baKembang-bali";
+},
+{
+alignment = -1;
+pos = (61,0);
+ref = "ra-bali.below";
+}
+);
+width = 993;
+}
+);
+metricLeft = "baKembang-bali";
+metricRight = "baKembang-bali";
+}
