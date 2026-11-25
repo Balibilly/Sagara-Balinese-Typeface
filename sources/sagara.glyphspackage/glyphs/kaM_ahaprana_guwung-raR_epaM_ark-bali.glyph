@@ -1,0 +1,54 @@
+{
+glyphname = "kaMahaprana_guwung-raRepaMark-bali";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (964,-487);
+},
+{
+name = top;
+pos = (600,577);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "kaMahaprana-bali";
+},
+{
+alignment = -1;
+pos = (279,-695);
+ref = cecek_tengah;
+scale = (0.8825,0.9139);
+},
+{
+closed = 1;
+nodes = (
+(1145,-247,o),
+(1128,-237,o),
+(1116,-235,c),
+(1080,-459,o),
+(956,-635,o),
+(633,-635,cs),
+(411,-635,o),
+(77,-520,o),
+(156,-208,c),
+(124,-202,l),
+(22,-647,o),
+(380,-725,o),
+(633,-725,cs),
+(1017,-725,o),
+(1127,-518,o),
+(1152,-263,c)
+);
+}
+);
+width = 1306;
+}
+);
+metricLeft = "kaMahaprana-bali";
+metricRight = "kaMahaprana-bali";
+}

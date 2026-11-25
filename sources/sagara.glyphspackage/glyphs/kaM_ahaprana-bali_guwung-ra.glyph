@@ -2,15 +2,45 @@
 glyphname = "kaMahaprana-bali_guwung-ra";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (1127,-487);
+},
+{
+name = top;
+pos = (763,577);
+}
+);
 layerId = m01;
 shapes = (
 {
 alignment = -1;
-pos = (234,0);
 ref = "kaMahaprana-bali";
+},
+{
+closed = 1;
+nodes = (
+(1159,-260,o),
+(1139,-243,o),
+(1126,-240,c),
+(1089,-463,o),
+(965,-635,o),
+(644,-635,cs),
+(422,-635,o),
+(88,-520,o),
+(167,-208,c),
+(135,-202,l),
+(33,-647,o),
+(391,-725,o),
+(644,-725,cs),
+(1022,-725,o),
+(1134,-525,o),
+(1163,-276,c)
+);
 }
 );
-width = 1540;
+width = 1306;
 }
 );
 metricLeft = "kaMahaprana-bali";

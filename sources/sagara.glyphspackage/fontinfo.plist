@@ -641,6 +641,7 @@ code = "lookup rlig_sub {
 	sub nga-bali tedung-bali by nga_tedung-bali;
 	sub pa-bali tedung-bali by pa_tedung-bali;
 	sub ja-bali tedung-bali by ja_tedung-bali;
+	sub jaJera-bali tedung-bali by jaJera_tedung-bali;
 	sub ya-bali tedung-bali by ya_tedung-bali;
 	sub nya-bali tedung-bali by nya_tedung-bali;
 	sub nya-bali suku-bali by nya_suku-bali;
@@ -648,7 +649,7 @@ code = "lookup rlig_sub {
 } rlig_sub;
 
 lookup Guwung_Ligatur {
-sub ha-bali ra-bali.below by ha-bali_guwung-ra;
+	sub ha-bali ra-bali.below by ha-bali_guwung-ra;
     sub na-bali ra-bali.below by na-bali_guwung-ra;
     sub naRambat-bali ra-bali.below by naRambat-bali_guwung-ra;
     sub ca-bali ra-bali.below by ca-bali_guwung-ra;
@@ -669,9 +670,9 @@ sub ha-bali ra-bali.below by ha-bali_guwung-ra;
     sub la-bali ra-bali.below by la-bali_guwung-ra;
     sub ma-bali ra-bali.below by ma-bali_guwung-ra;
     sub ga-bali ra-bali.below by ga-bali_guwung-ra;
-    sub gaGora-bali ra-bali.below by gaGora_guwung-bali;
+    sub gaGora-bali ra-bali.below by gaGora_tedung-bali;
     sub ba-bali ra-bali.below by ba-bali_guwung-ra;
-    sub baKembang-bali ra-bali.below by baKembang_guwung-bali;
+    sub baKembang-bali ra-bali.below by baKembang_tedung-bali;
     sub nga-bali ra-bali.below by nga-bali_guwung-ra;
     sub pa-bali ra-bali.below by pa-bali_guwung-ra;	
     sub ja-bali ra-bali.below by ja-bali_guwung-ra;
@@ -687,7 +688,7 @@ lookup Guwung_raRepa_Liga {
     sub ca-bali raRepaMark-bali by ca_guwung-raRepaMark-bali;
     sub caLaca-bali raRepaMark-bali by caLaca_guwungRepaMark-bali;
      sub ka-bali raRepaMark-bali by ka_guwung-raRepaMark-bali;
-    sub kaMahaprana-bali raRepaMark-bali by 
+    sub kaMahaprana-bali raRepaMark-bali by kaMahaprana_guwung-raRepaMark-bali;
     sub da-bali raRepaMark-bali by da_guwung-raRepaMark-bali;
     sub daMadu-bali raRepaMark-bali by daMadu_guwung-raRepaMark-bali;
     sub daMurdaAlpaprana-bali raRepaMark-bali by daMurdaAlpaprana_guwung-raRepaMark-bali;
@@ -704,7 +705,7 @@ lookup Guwung_raRepa_Liga {
     sub ga-bali raRepaMark-bali by ga_guwung-raRepaMark-bali;
     sub gaGora-bali raRepaMark-bali by gaGora_guwung-raRepaMark-bali;
     sub ba-bali raRepaMark-bali by ba_guwung-raRepaMark-bali;
-    sub baKembang-bali raRepaMark-bali by baKembang_guwung-raRepaMark-bali;
+    sub baKembang-bali raRepaMark-bali by baKembang_guwungRepaMark-bali;
     sub nga-bali raRepaMark-bali by nga_guwung-raRepaMark-bali;
     sub pa-bali raRepaMark-bali by pa_guwung-raRepaMark-bali;
     sub ja-bali raRepaMark-bali by ja_guwung-raRepaMark-bali;
@@ -758,7 +759,7 @@ pos = (660,500);
 pos = (1200,-833);
 },
 {
-pos = (1185,-882);
+pos = (1208,-588);
 },
 {
 pos = (232,-27);
@@ -785,6 +786,9 @@ pos = (1202,9);
 },
 {
 pos = (1204,70);
+},
+{
+pos = (1185,-882);
 }
 );
 id = m01;
