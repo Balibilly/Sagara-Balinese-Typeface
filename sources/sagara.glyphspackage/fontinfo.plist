@@ -598,14 +598,30 @@ lookup GuwungGede {
 	sub [@AksaraJimbar] raRepaMark-bali' by raRepaMark-bali.ss01;
 } GuwungGede;
 
-lookup GuwungRingGantungan {
-	sub 
+lookup blwf_GantunganNya {
+	sub nya-bali ha-bali.below by nya_ha-bali.below;
+	sub nya-bali na-bali.below by nya_na-bali.below;
+	sub nya-bali naRambat-bali.below by nya_naRambat-bali.below;
+	sub nya-bali ca-bali.below by nya_ca-bali.below;
+	sub nya-bali caLaca-bali.below by nya_caLaca-bali.below;
+	sub nya-bali ra-bali.below by nya_ra-bali.below;
+	sub nya-bali ka-bali.below by nya_ka-bali.below;
+	sub nya-bali kaMahaprana-bali.below by nya_kaMahaprana-bali.below;
+	sub nya-bali da-bali.below by nya_da-bali.below;
+	sub nya-bali daMadu-bali.below by nya_daMadu-bali.below;
+	sub nya-bali daMurdaAlpaprana-bali.below by nya_daMurdaAlpaprana-bali.below;
+	sub nya-bali daMurdaMahaprana-bali.below by nya_daMurdaMahaprana-bali.below;
+} blwf_GantunganNya;
+
+
+";
+notes = "
+
+
+
+
 ";
 tag = blws;
-},
-{
-code = "";
-tag = rlig;
 },
 {
 code = "lookup rlig_sub {
