@@ -6,14 +6,15 @@ layerId = m01;
 shapes = (
 {
 alignment = -1;
+pos = (83,0);
 ref = "ya-bali";
 },
 {
-pos = (-86,0);
+pos = (-3,0);
 ref = "raRepaMark-bali.below03";
 }
 );
-width = 1077;
+width = 1160;
 }
 );
 metricLeft = "ya-bali";

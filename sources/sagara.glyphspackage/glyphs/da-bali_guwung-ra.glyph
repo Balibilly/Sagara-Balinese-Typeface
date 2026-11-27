@@ -6,15 +6,16 @@ layerId = m01;
 shapes = (
 {
 alignment = -1;
+pos = (24,0);
 ref = "da-bali";
 },
 {
 alignment = -1;
-pos = (37,0);
+pos = (61,0);
 ref = "ra-bali.below";
 }
 );
-width = 917;
+width = 941;
 }
 );
 metricLeft = "da-bali";

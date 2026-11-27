@@ -23,12 +23,12 @@ ref = "ra-bali.below2";
 },
 {
 alignment = -1;
-pos = (253,-702);
+pos = (316,-845);
 ref = cecek_tengah;
 scale = (0.8825,0.9139);
 }
 );
-width = 1200;
+width = 1336;
 }
 );
 }
