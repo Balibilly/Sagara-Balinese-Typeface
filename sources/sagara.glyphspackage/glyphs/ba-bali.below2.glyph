@@ -1,0 +1,30 @@
+{
+glyphname = "ba-bali.below2";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (1191,0);
+},
+{
+name = bottom;
+pos = (1191,-605);
+},
+{
+name = top;
+pos = (660,617);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-605);
+ref = "ba-bali";
+}
+);
+width = 1291;
+}
+);
+}

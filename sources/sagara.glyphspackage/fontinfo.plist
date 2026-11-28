@@ -59,7 +59,9 @@ ba-bali.below
 baKembang-bali.below
 nga-bali.below
 ja-bali.below
-nya-bali.below";
+nya-bali.below
+ba-bali.below2
+la-bali.below2";
 name = Gantungan;
 },
 {
@@ -635,12 +637,22 @@ lookup blwf_bali_02 {
 
 } blwf_bali_02;
 
-lookup pstf_sub {
-
+lookup gantungan {
 sub @Gantungan ra-bali.below' by ra-bali.below2;
 sub @Gantungan raRepaMark-bali' by raRepaMark-bali.below2;
 sub @Gantungan taTawa-bali.below' by taTawa-bali.below2;
-";
+} gantungan;
+
+lookup belowFix {
+sub la-bali.below' [suku-bali.below sukuIlut-bali.below ra-bali.below2 raRepaMark-bali.below2 wa-bali.below2 taTawa-bali.below2] by la-bali.below2;
+sub ba-bali.below' [suku-bali.below sukuIlut-bali.below wa-bali.below2 taTawa-bali.below2 la-bali.below] by ba-bali.below2;
+sub nya_la-bali.below' [suku-bali.below sukuIlut-bali.below wa-bali.below2 taTawa-bali.below2 la-bali.below] by la-bali.below2;
+} belowFix;
+lookup belowFix;
+
+lookup naniya {
+sub adegadeg-bali ya-bali by ya-bali.post;
+} naniya;";
 tag = blwf;
 },
 {
@@ -923,7 +935,7 @@ pos = (100,617);
 },
 {
 angle = 90;
-pos = (1340,130);
+pos = (1191,118);
 },
 {
 pos = (1169,-726);
